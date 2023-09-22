@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/banner/banner-101.webp",
+    "title": "İnegöl",
+    "subtitle": "Akhisar Mh. 2.Fatih Cad.№ 2D",
+    "price": "$99.00",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/banner/banner-102.webp",
+    "title": "Bursa",
+    "subtitle": "Akhisar Mh. 2.Fatih Cad.№ 2D",
+    "price": "$79.00",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/banner/banner-103.webp",
+    "title": "Grozny",
+    "subtitle": "Akhmat Mh. 1.Fatih Cad.№ 2D",
+    "price": "$29.00",
+    "link": "/shop-grid-standard"
+  }
+]

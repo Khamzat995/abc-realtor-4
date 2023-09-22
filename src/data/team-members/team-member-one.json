@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/team/manager_1.jpg",
+    "fbLink": "//www.facebook.com",
+    "telegramLink": "//www.telegram.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Mr.Mike Banding",
+    "position": "Директор кампании"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/team/manager_2.jpg",
+    "fbLink": "//www.facebook.com",
+    "telegramLink": "//www.telegram.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Ms.Petra Pany",
+    "position": "Менеджер по продажам"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/team/manager_3.jpg",
+    "fbLink": "//www.facebook.com",
+    "telegramLink": "//www.telegram.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Ms.Sophia",
+    "position": "Продавец-консультант"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/team/manager_4.jpg",
+    "fbLink": "//www.facebook.com",
+    "telegramLink": "//www.telegram.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Mr.John Lee",
+    "position": "Администратор магазина"
+  }
+]

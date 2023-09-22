@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Доступные цены",
+    "subtitle": "Беспроцентная рассрочка, ипотека от застройщика",
+    "image": "/assets/img/slider/single-slide-50.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Квартиры, виллы и таунхаусы",
+    "subtitle": "Большая база недвижимости от эконом до элит класса",
+    "image": "/assets/img/slider/workOne.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "Гражданство и ВНЖ Турции",
+    "subtitle": "Полное юридическое сопровождение",
+    "image": "/assets/img/slider/citizen.webp",
+    "url": "/shop-grid-standard"
+  }
+]

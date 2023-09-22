@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/blog/blog-41.webp",
+    "category": [
+      "Жизнь",
+      "люди"
+    ],
+    "title": "Как работают дизайнеры интерьера",
+    "url": "/blog-details-standard-one",
+    "author": "админ",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/blog/blog-42.webp",
+    "category": [
+      "Красота",
+      "дизайн"
+    ],
+    "title": "Стильный интерьер: простота и аристократизм",
+    "url": "/blog-details-standard-two",
+    "author": "админ",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/blog/blog-45.webp",
+    "category": [
+      "Здоровье"
+    ],
+    "title": "Здравоохранение Турции для иностранцев",
+    "url": "/blog-details-standard-three",
+    "author": "админ",
+    "authorUrl": "/blog-standard"
+  }
+]
