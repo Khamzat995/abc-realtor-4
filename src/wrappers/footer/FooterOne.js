@@ -50,16 +50,16 @@ const FooterOne = ({
           >
             <div className="footer-widget mb-30 ml-30">
               <div className="footer-title">
-                <h3>О НАС</h3>
+              <Link to={process.env.PUBLIC_URL + "/about"}> <h3>О НАС</h3></Link>
               </div>
               <div className="footer-list">
                 <ul>
-                  <li>
+                  {/* <li>
                     <Link to={process.env.PUBLIC_URL + "/about"}>О нас</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>
-                      Расположение магазина
+                      Расположение офиса
                     </Link>
                   </li>
                   <li>
@@ -124,9 +124,18 @@ const FooterOne = ({
               </div>
               <div className="footer-list">
                 <ul>
+                <li>
+                    <a
+                      href="https://wa.me/905522868989"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      WhatsApp
+                    </a>
+                  </li>
                   <li>
                     <a
-                      href="//www.instagram.com"
+                      href="https://instagram.com/istanbul_expert/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -135,13 +144,23 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.twitter.com"
-                      target="_blank"
+                      href="https://t.me/istanbul_exp" 
+                      target="_blank" 
                       rel="noopener noreferrer"
                     >
                       Telegramm
                     </a>
                   </li>
+                  <li>
+                    <a
+                      href="https://www.youtube.com/channel/UCR58sPLCgfgkZ0BDs9TKeCQ"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Youtube
+                    </a>
+                  </li>
+                  
                   <li>
                     <a
                       href="//www.facebook.com"
@@ -152,15 +171,7 @@ const FooterOne = ({
                     </a>
                   </li>
 
-                  <li>
-                    <a
-                      href="//www.youtube.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Youtube
-                    </a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -182,7 +193,7 @@ const FooterOne = ({
           >
             {/* footer copyright */}
             <FooterCopyright
-              footerLogo="/assets/img/logo/ist_1.png"
+              footerLogo="/assets/img/logo/ist_101.png"
               spaceBottomClass="mb-30"
             />
           </div>

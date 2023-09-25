@@ -43,6 +43,7 @@
       margin: 0;
 
       color: #fff;
+      text-shadow: 1px 1px 1px black;
       @media #{$md-layout} {
         font-size: 27px;
       }
@@ -58,6 +59,7 @@
       margin: 3px 0 58px;
 
       color: #fff;
+      text-shadow: 1px 1px 1px black;
       @media #{$lg-layout} {
         margin: 3px 0 25px;
       }
@@ -901,6 +903,7 @@
         .banner-content {
           top: 15px;
           left: 15px;
+
           h3 {
             font-size: 25px;
           }

@@ -24,7 +24,7 @@ const Product = ({ location, product }) => {
 
       <BreadcrumbsItem to={process.env.PUBLIC_URL + "/"}>Главная</BreadcrumbsItem>
       <BreadcrumbsItem to={process.env.PUBLIC_URL + pathname}>
-        Товар
+        НЕДВИЖИМОСТЬ
       </BreadcrumbsItem>
 
       <LayoutOne headerTop="visible">

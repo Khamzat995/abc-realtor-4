@@ -1,26 +1,26 @@
 [
   {
     "id": "1",
-    "iconClass": "pe-7s-portfolio",
-    "countNum": 2160,
-    "title": "Выполненых заказов"
+    "iconClass": "pe-7s-car",
+    "countNum": 129,
+    "title": "Ознакомительных туров"
   },
   {
     "id": "2",
-    "iconClass": "pe-7s-cup",
-    "countNum": 690,
-    "title": "Наши награды"
+    "iconClass": "pe-7s-portfolio",
+    "countNum": 97,
+    "title": "Заключенных договоров"
   },
   {
     "id": "3",
-    "iconClass": "pe-7s-light",
+    "iconClass": "pe-7s-users",
     "countNum": 50,
-    "title": "Фабрик партнеров"
+    "title": "Застройщиков партнеров"
   },
   {
     "id": "4",
     "iconClass": "pe-7s-smile",
-    "countNum": 2420,
+    "countNum": 114,
     "title": "Довольных клиентов"
   }
 ]

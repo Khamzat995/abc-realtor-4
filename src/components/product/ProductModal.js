@@ -256,7 +256,7 @@ function ProductModal(props) {
                   </div>
                 ) : (
                   <div className="pro-details-quality">
-                    <div className="cart-plus-minus">
+                   {/*  <div className="cart-plus-minus">
                       <button
                         onClick={() =>
                           setQuantityCount(
@@ -285,8 +285,8 @@ function ProductModal(props) {
                       >
                         +
                       </button>
-                    </div>
-                    <div className="pro-details-cart btn-hover">
+                    </div> */}
+                    {/* <div className="pro-details-cart btn-hover">
                       {productStock && productStock > 0 ? (
                         <button
                           onClick={() =>
@@ -301,12 +301,12 @@ function ProductModal(props) {
                           disabled={productCartQty >= productStock}
                         >
                           {" "}
-                          Добавить в корзину{" "}
+                          Добавить в корзину +{" "}
                         </button>
                       ) : (
                         <button disabled>Распродано</button>
                       )}
-                    </div>
+                    </div> */}
                     <div className="pro-details-wishlist">
                       <button
                         className={wishlistItem !== undefined ? "active" : ""}

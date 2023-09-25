@@ -5,7 +5,7 @@
     "fbLink": "//www.facebook.com",
     "telegramLink": "//www.telegram.com",
     "instagramLink": "//www.instagram.com",
-    "name": "Mr.Mike Banding",
+    "name": "Mr. Ibragim",
     "position": "Директор кампании"
   },
   {
@@ -14,8 +14,8 @@
     "fbLink": "//www.facebook.com",
     "telegramLink": "//www.telegram.com",
     "instagramLink": "//www.instagram.com",
-    "name": "Ms.Petra Pany",
-    "position": "Менеджер по продажам"
+    "name": "Ms. Petra Pany",
+    "position": "Эксперт по недвижимости"
   },
   {
     "id": "3",
@@ -23,8 +23,8 @@
     "fbLink": "//www.facebook.com",
     "telegramLink": "//www.telegram.com",
     "instagramLink": "//www.instagram.com",
-    "name": "Ms.Sophia",
-    "position": "Продавец-консультант"
+    "name": "Ms. Sophia",
+    "position": "Юрист-консультант"
   },
   {
     "id": "4",
@@ -32,7 +32,7 @@
     "fbLink": "//www.facebook.com",
     "telegramLink": "//www.telegram.com",
     "instagramLink": "//www.instagram.com",
-    "name": "Mr.John Lee",
-    "position": "Администратор магазина"
+    "name": "Mr. John Lee",
+    "position": "Эксперт по недвижимости"
   }
 ]

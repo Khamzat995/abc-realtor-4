@@ -200,7 +200,7 @@ const BlogPostSix = () => {
           {" "}
           <i className="fa fa-angle-left" /> Предыдуший пост
         </Link>
-        <Link to={process.env.PUBLIC_URL + "/blog-details-standard-one"}>
+        <Link to={process.env.PUBLIC_URL + "/blog-details-standard-seven"}>
           Следующий пост <i className="fa fa-angle-right" />
         </Link>
       </div>

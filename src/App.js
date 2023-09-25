@@ -39,18 +39,15 @@ const BlogDetailsStandardFive = lazy(() =>
 const BlogDetailsStandardSix = lazy(() =>
   import("./pages/blog/BlogDetailsStandardSix")
 );
+const BlogDetailsStandardSeven = lazy(() =>
+  import("./pages/blog/BlogDetailsStandardSeven")
+);
 
 // other pages
 const About = lazy(() => import("./pages/other/About"));
 const Contact = lazy(() => import("./pages/other/Contact"));
-const MyAccount = lazy(() => import("./pages/other/MyAccount"));
-const LoginRegister = lazy(() => import("./pages/other/LoginRegister"));
-
-const Cart = lazy(() => import("./pages/other/Cart"));
 const Wishlist = lazy(() => import("./pages/other/Wishlist"));
 const Compare = lazy(() => import("./pages/other/Compare"));
-const Checkout = lazy(() => import("./pages/other/Checkout"));
-
 const NotFound = lazy(() => import("./pages/other/NotFound"));
 
 const App = (props) => {
@@ -145,6 +142,10 @@ const App = (props) => {
                   path={process.env.PUBLIC_URL + "/blog-details-standard-six"}
                   component={BlogDetailsStandardSix}
                 />
+                <Route
+                  path={process.env.PUBLIC_URL + "/blog-details-standard-seven"}
+                  component={BlogDetailsStandardSeven}
+                />
 
                 {/* Other pages */}
                 <Route
@@ -156,19 +157,6 @@ const App = (props) => {
                   component={Contact}
                 />
                 <Route
-                  path={process.env.PUBLIC_URL + "/my-account"}
-                  component={MyAccount}
-                />
-                <Route
-                  path={process.env.PUBLIC_URL + "/login-register"}
-                  component={LoginRegister}
-                />
-
-                <Route
-                  path={process.env.PUBLIC_URL + "/cart"}
-                  component={Cart}
-                />
-                <Route
                   path={process.env.PUBLIC_URL + "/wishlist"}
                   component={Wishlist}
                 />
@@ -177,15 +165,9 @@ const App = (props) => {
                   component={Compare}
                 />
                 <Route
-                  path={process.env.PUBLIC_URL + "/checkout"}
-                  component={Checkout}
-                />
-
-                <Route
                   path={process.env.PUBLIC_URL + "/not-found"}
                   component={NotFound}
                 />
-
                 <Route exact component={NotFound} />
               </Switch>
             </Suspense>

@@ -75,6 +75,10 @@
 /* support hm3 */
 .support-wrap-2 {
   .support-content-2 {
+    img {
+    width: 70px;
+    
+    }
     h5 {
       font-size: 18px;
       line-height: 24px;
@@ -97,6 +101,7 @@
   }
   &:hover .support-content-2 img {
     animation: 500ms ease-in-out 0s normal none 1 running tada;
+    
   }
   &.support-shape {
     position: relative;

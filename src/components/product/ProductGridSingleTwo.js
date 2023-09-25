@@ -58,7 +58,7 @@ const ProductGridSingleTwo = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="red">-{product.discount}%</span>
+                  <span className="red">{product.discount} год</span>
                 ) : (
                   ""
                 )}
@@ -69,7 +69,7 @@ const ProductGridSingleTwo = ({
             )}
 
             <div className="product-action-2">
-              {product.affiliateLink ? (
+              {/* {product.affiliateLink ? (
                 <a
                   href={product.affiliateLink}
                   rel="noopener noreferrer"
@@ -106,7 +106,7 @@ const ProductGridSingleTwo = ({
                 <button disabled className="active" title="Out of stock">
                   <i className="fa fa-shopping-cart"></i>
                 </button>
-              )}
+              )} */}
 
               <button onClick={() => setModalShow(true)} title="Посмотреть">
                 <i className="fa fa-eye"></i>

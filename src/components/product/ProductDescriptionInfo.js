@@ -7,6 +7,7 @@ import { addToCart } from "../../redux/actions/cartActions";
 import { addToWishlist } from "../../redux/actions/wishlistActions";
 import { addToCompare } from "../../redux/actions/compareActions";
 import Rating from "./sub-components/ProductRating";
+import Logo from "../../components/header/Logo";
 
 const ProductDescriptionInfo = ({
   product,
@@ -151,7 +152,7 @@ const ProductDescriptionInfo = ({
         </div>
       ) : (
         <div className="pro-details-quality">
-          <div className="cart-plus-minus">
+          {/* <div className="cart-plus-minus">
             <button
               onClick={() =>
                 setQuantityCount(quantityCount > 1 ? quantityCount - 1 : 1)
@@ -178,8 +179,8 @@ const ProductDescriptionInfo = ({
             >
               +
             </button>
-          </div>
-          <div className="pro-details-cart btn-hover">
+          </div> */}
+          {/* <div className="pro-details-cart btn-hover">
             {productStock && productStock > 0 ? (
               <button
                 onClick={() =>
@@ -194,12 +195,12 @@ const ProductDescriptionInfo = ({
                 disabled={productCartQty >= productStock}
               >
                 {" "}
-                Add To Cart{" "}
+                Add To Cart{" "}==
               </button>
             ) : (
               <button disabled>Out of Stock</button>
             )}
-          </div>
+          </div> */}
           <div className="pro-details-wishlist">
             <button
               className={wishlistItem !== undefined ? "active" : ""}
@@ -232,7 +233,7 @@ const ProductDescriptionInfo = ({
       )}
       {product.category ? (
         <div className="pro-details-meta">
-          <span>Categories :</span>
+          <span>Категории :</span>
           <ul>
             {product.category.map((single, key) => {
               return (
@@ -269,9 +270,19 @@ const ProductDescriptionInfo = ({
 
       <div className="pro-details-social">
         <ul>
+        <li>
+            <a href="//twitter.com">
+              <i className="fa fa-whatsapp" />
+            </a>
+          </li>
           <li>
-            <a href="//facebook.com">
-              <i className="fa fa-facebook" />
+            <a href="//dribbble.com">
+              <i className="fa fa-paper-plane" />
+            </a>
+          </li>
+          <li>
+            <a href="//dribbble.com">
+              <i className="fa fa-instagram" />
             </a>
           </li>
           <li>
@@ -279,16 +290,19 @@ const ProductDescriptionInfo = ({
               <i className="fa fa-dribbble" />
             </a>
           </li>
+
+          <li>
+            <a href="//facebook.com">
+              <i className="fa fa-facebook" />
+            </a>
+          </li>
+          
           <li>
             <a href="//pinterest.com">
               <i className="fa fa-pinterest-p" />
             </a>
           </li>
-          <li>
-            <a href="//twitter.com">
-              <i className="fa fa-whatsapp" />
-            </a>
-          </li>
+          
           <li>
             <a href="//linkedin.com">
               <i className="fa fa-linkedin" />
@@ -296,7 +310,25 @@ const ProductDescriptionInfo = ({
           </li>
         </ul>
       </div>
-    </div>
+      <div className="pro-details-phone"> 
+      <div className="same-language-currency">
+        <a href=" tel:+905522868989"> Позвонить сейчас: 
+        <p>
+        <i className="fa fa-phone" />
+          <span> +90 552 286 89 89</span>
+          </p>
+          <p>
+        <i className="fa fa-phone" />
+          <span> +90 552 592 91 91</span>
+          </p>
+
+          </a>
+          <h4>ISTANBUL-EXPERT</h4>
+      </div>
+      </div>
+       </div>
+      
+    
   );
 };
 

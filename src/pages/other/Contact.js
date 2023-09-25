@@ -28,7 +28,7 @@ const Contact = ({ location }) => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <LocationMap latitude="40.0864" longitude="29.510" />
+              <LocationMap latitude="41.000288" longitude="28.614156" />
             </div>
             <div className="custom-row-2">
               <div className="col-lg-4 col-md-5">
@@ -38,8 +38,8 @@ const Contact = ({ location }) => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+90 505 798 00 34</p>
-                      <p>+90 505 798 00 00</p>
+                      <p>+90 552 286 8989</p>
+                      <p>+90 552 592 9191</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -48,10 +48,10 @@ const Contact = ({ location }) => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="mailto:bhome.tr@gmail.com">bhome.tr@gmail.com</a>
+                        <a href="mailto:exp.istambul@gmail.com">exp.istambul@gmail.com</a>
                       </p>
                       <p>
-                        <a href="//urwebsitenaem.com">@barakat-home.com</a>
+                        <a href="https://t.me/istanbul_exp">@istanbul_exp</a>
                       </p>
                     </div>
                   </div>
@@ -60,8 +60,8 @@ const Contact = ({ location }) => {
                       <i className="fa fa-map-marker" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>Akhisar Mh. 2.Fatih Cad.№ 2D,</p>
-                      <p>İnegöl / Bursa</p>
+                      <p>Pınartepe, Alaca Sk. No:7,</p>
+                      <p>34500 Büyükçekmece/İstanbul</p>
                     </div>
                   </div>
                   <div className="contact-social text-center">

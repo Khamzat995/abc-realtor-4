@@ -169,7 +169,7 @@ const BlogPostOne = () => {
         </div>
       </div>
       <div className="next-previous-post">
-        <Link to={process.env.PUBLIC_URL + "/blog-details-standard-six"}>
+        <Link to={process.env.PUBLIC_URL + "/blog-details-standard-seven"}>
           {" "}
           <i className="fa fa-angle-left" /> Предыдуший пост
         </Link>

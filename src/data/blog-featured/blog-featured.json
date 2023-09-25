@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/blog/blog-41.webp",
+    "image": "/assets/img/blog/musk-erdogan.webp",
     "category": [
-      "Жизнь",
+      "Бизнес",
       "люди"
     ],
-    "title": "Как работают дизайнеры интерьера",
-    "url": "/blog-details-standard-one",
+    "title": "Эрдоган и Маск откроют завод Tesla в Турции?",
+    "url": "/blog-details-standard-seven",
     "author": "админ",
     "authorUrl": "/blog-standard"
   },
@@ -27,7 +27,8 @@
     "id": 3,
     "image": "/assets/img/blog/blog-45.webp",
     "category": [
-      "Здоровье"
+      "Здоровье",
+      "люди"
     ],
     "title": "Здравоохранение Турции для иностранцев",
     "url": "/blog-details-standard-three",

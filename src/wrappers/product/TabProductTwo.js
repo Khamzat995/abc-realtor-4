@@ -28,7 +28,7 @@ const TabProductTwo = ({ spaceBottomClass, category }) => {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link eventKey="saleItems">
-                <h4 className="nav-btn">Со скидками</h4>
+                <h4 className="nav-btn">На стадии строительства</h4>
               </Nav.Link>
             </Nav.Item>
           </Nav>

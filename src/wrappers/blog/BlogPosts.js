@@ -7,9 +7,9 @@ const BlogPosts = () => {
       <div className="col-lg-6 col-md-6 col-sm-12">
         <div className="blog-wrap-2 mb-30">
           <div className="blog-img-2">
-            <Link to={process.env.PUBLIC_URL + "/blog-details-standard-one"}>
+            <Link to={process.env.PUBLIC_URL + "/blog-details-standard-seven"}>
               <img
-                src={process.env.PUBLIC_URL + "/assets/img/blog/blog-41.webp"}
+                src={process.env.PUBLIC_URL + "/assets/img/blog/musk-erdogan.webp"}
                 alt="картинка"
               />
             </Link>
@@ -17,23 +17,23 @@ const BlogPosts = () => {
           <div className="blog-content-2">
             <div className="blog-meta-2">
               <ul>
-                <li>12 июля, 2023</li>
+                <li>23 сентября, 2023</li>
                 <li>
                   14 <i className="fa fa-comments-o" />
                 </li>
               </ul>
             </div>
             <h4>
-              <Link to={process.env.PUBLIC_URL + "/blog-details-standard-one"}>
-                КАК РАБОТАЮТ ДИЗАЙНЕРЫ ИНТЕРЬЕРА: 12 ВОПРОСОВ К ЭКСПЕРТАМ
+              <Link to={process.env.PUBLIC_URL + "/blog-details-standard-seven"}>
+              Эрдоган и Маск откроют завод Tesla в Турции?
               </Link>
             </h4>
             <p>
-              Дизайнер должен мыслить творчески, но при этом быть психологом, уметь пользоваться инструментами дизайна и ...
+            17 сентября президент Турции Реджеп Тайип Эрдоган встретился в Нью-Йорке с бизнесменом ...
             </p>
             <div className="blog-share-comment">
               <div className="blog-btn-2">
-                <Link to={process.env.PUBLIC_URL + "/blog-details-standard-one"}>
+                <Link to={process.env.PUBLIC_URL + "/blog-details-standard-seven"}>
                   Читать далее
                 </Link>
               </div>
