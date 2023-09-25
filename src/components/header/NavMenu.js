@@ -411,7 +411,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
               )}
             </Link>
             <ul className="submenu">
-              <li>
+              {/* <li>
                 <Link to={process.env.PUBLIC_URL + "/cart"}>
                   {strings["cart"]}
                 </Link>
@@ -420,7 +420,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
                 <Link to={process.env.PUBLIC_URL + "/checkout"}>
                   {strings["checkout"]}
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link to={process.env.PUBLIC_URL + "/wishlist"}>
                   {strings["wishlist"]}
@@ -432,6 +432,11 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
                 </Link>
               </li>
               <li>
+                <Link to={process.env.PUBLIC_URL + "/questions"}>
+                  {strings["questions_us"]}
+                </Link>
+              </li>
+              {/* <li>
                 <Link to={process.env.PUBLIC_URL + "/my-account"}>
                   {strings["my_account"]}
                 </Link>
@@ -440,7 +445,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
                 <Link to={process.env.PUBLIC_URL + "/login-register"}>
                   {strings["login_register"]}
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link to={process.env.PUBLIC_URL + "/about"}>
                   {strings["about_us"]}
@@ -451,6 +456,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
                   {strings["contact_us"]}
                 </Link>
               </li>
+              
               <li>
                 <Link to={process.env.PUBLIC_URL + "/not-found"}>
                   {strings["404_page"]}
@@ -461,13 +467,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
           <li>
             <Link to={process.env.PUBLIC_URL + "/blog-standard"}>
               {strings["blog"]}
-              {/* {sidebarMenu ? (
-                <span>
-                  <i className="fa fa-angle-right"></i>
-                </span>
-              ) : (
-                <i className="fa fa-angle-down" />
-              )} */}
+              
             </Link>
             {/* <ul className="submenu">
               <li>

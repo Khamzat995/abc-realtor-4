@@ -92,7 +92,7 @@ const FooterOne = ({
               <div className="footer-list">
                 <ul>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Возврат средств</Link>
+                    <Link to={process.env.PUBLIC_URL + "/questions"}>Часто задаваемые вопросы</Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>
@@ -102,9 +102,7 @@ const FooterOne = ({
                   <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>Руководство по размерам</Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Часто задаваемые вопросы</Link>
-                  </li>
+        
                 </ul>
               </div>
             </div>

@@ -345,7 +345,7 @@ const MobileNavMenu = ({ strings }) => {
         <li className="menu-item-has-children">
           <Link to={process.env.PUBLIC_URL + "/"}>{strings["pages"]}</Link>
           <ul className="sub-menu">
-            <li>
+            {/* <li>
               <Link to={process.env.PUBLIC_URL + "/cart"}>
                 {strings["cart"]}
               </Link>
@@ -354,7 +354,7 @@ const MobileNavMenu = ({ strings }) => {
               <Link to={process.env.PUBLIC_URL + "/checkout"}>
                 {strings["checkout"]}
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link to={process.env.PUBLIC_URL + "/wishlist"}>
                 {strings["wishlist"]}
@@ -365,7 +365,7 @@ const MobileNavMenu = ({ strings }) => {
                 {strings["compare"]}
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to={process.env.PUBLIC_URL + "/my-account"}>
                 {strings["my_account"]}
               </Link>
@@ -374,7 +374,12 @@ const MobileNavMenu = ({ strings }) => {
               <Link to={process.env.PUBLIC_URL + "/login-register"}>
                 {strings["login_register"]}
               </Link>
-            </li>
+            </li> */}
+            <li>
+                <Link to={process.env.PUBLIC_URL + "/questions"}>
+                  {strings["questions_us"]}
+                </Link>
+              </li>
             <li>
               <Link to={process.env.PUBLIC_URL + "/about"}>
                 {strings["about_us"]}
@@ -385,11 +390,12 @@ const MobileNavMenu = ({ strings }) => {
                 {strings["contact_us"]}
               </Link>
             </li>
-            <li>
+            
+            {/* <li>
               <Link to={process.env.PUBLIC_URL + "/not-found"}>
                 {strings["404_page"]}
               </Link>
-            </li>
+            </li> */}
           </ul>
         </li>
         <li className="menu-item-has-children">

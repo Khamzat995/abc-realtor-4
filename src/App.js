@@ -49,6 +49,8 @@ const Contact = lazy(() => import("./pages/other/Contact"));
 const Wishlist = lazy(() => import("./pages/other/Wishlist"));
 const Compare = lazy(() => import("./pages/other/Compare"));
 const NotFound = lazy(() => import("./pages/other/NotFound"));
+const Questions = lazy(() => import("./pages/other/Questions"));
+
 
 const App = (props) => {
   useEffect(() => {
@@ -167,6 +169,10 @@ const App = (props) => {
                 <Route
                   path={process.env.PUBLIC_URL + "/not-found"}
                   component={NotFound}
+                />
+                <Route
+                  path={process.env.PUBLIC_URL + "/questions"}
+                  component={Questions}
                 />
                 <Route exact component={NotFound} />
               </Switch>
