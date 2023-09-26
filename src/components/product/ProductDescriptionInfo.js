@@ -2,12 +2,12 @@ import PropTypes from "prop-types";
 import React, { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
 import { connect } from "react-redux";
-import { getProductCartQuantity } from "../../helpers/product";
+/* import { getProductCartQuantity } from "../../helpers/product"; */
 import { addToCart } from "../../redux/actions/cartActions";
 import { addToWishlist } from "../../redux/actions/wishlistActions";
 import { addToCompare } from "../../redux/actions/compareActions";
 import Rating from "./sub-components/ProductRating";
-import Logo from "../../components/header/Logo";
+/* import Logo from "../../components/header/Logo"; */
 
 const ProductDescriptionInfo = ({
   product,
@@ -29,17 +29,17 @@ const ProductDescriptionInfo = ({
   const [selectedProductSize, setSelectedProductSize] = useState(
     product.variation ? product.variation[0].size[0].name : ""
   );
-  const [productStock, setProductStock] = useState(
+  const [ setProductStock] = useState(
     product.variation ? product.variation[0].size[0].stock : product.stock
   );
-  const [quantityCount, setQuantityCount] = useState(1);
+  /* const [quantityCount, setQuantityCount] = useState(1);
 
   const productCartQty = getProductCartQuantity(
     cartItems,
     product,
     selectedProductColor,
     selectedProductSize
-  );
+  ); */
 
   return (
     <div className="product-details-content ml-70">
@@ -91,7 +91,7 @@ const ProductDescriptionInfo = ({
                         setSelectedProductColor(single.color);
                         setSelectedProductSize(single.size[0].name);
                         setProductStock(single.size[0].stock);
-                        setQuantityCount(1);
+                        
                       }}
                     />
                     <span className="checkmark"></span>
@@ -123,7 +123,7 @@ const ProductDescriptionInfo = ({
                             onChange={() => {
                               setSelectedProductSize(singleSize.name);
                               setProductStock(singleSize.stock);
-                              setQuantityCount(1);
+                              
                             }}
                           />
                           <span className="size-name">{singleSize.name}</span>
@@ -323,7 +323,7 @@ const ProductDescriptionInfo = ({
           </p>
 
           </a>
-          <h4>ISTANBUL-EXPERT</h4>
+         {/*  <h4>ISTANBUL-EXPERT</h4> */}
       </div>
       </div>
        </div>

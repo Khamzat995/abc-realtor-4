@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React, { Fragment } from "react";
 import { connect } from "react-redux";
-import { addToCart } from "../../redux/actions/cartActions";
+/* import { addToCart } from "../../redux/actions/cartActions"; */
 import { addToWishlist } from "../../redux/actions/wishlistActions";
 import { addToCompare } from "../../redux/actions/compareActions";
 import ProductGridListSingle from "../../components/product/ProductGridListSingle";
@@ -9,7 +9,7 @@ import ProductGridListSingle from "../../components/product/ProductGridListSingl
 const ProductGrid = ({
   products,
   currency,
-  addToCart,
+  /* addToCart, */
   addToWishlist,
   addToCompare,
   cartItems,
@@ -27,12 +27,12 @@ const ProductGrid = ({
             spaceBottomClass={spaceBottomClass}
             product={product}
             currency={currency}
-            addToCart={addToCart}
+            /* addToCart={addToCart} */
             addToWishlist={addToWishlist}
             addToCompare={addToCompare}
-            cartItem={
+            /* cartItem={
               cartItems.filter(cartItem => cartItem.id === product.id)[0]
-            }
+            } */
             wishlistItem={
               wishlistItems.filter(
                 wishlistItem => wishlistItem.id === product.id
@@ -52,7 +52,7 @@ const ProductGrid = ({
 };
 
 ProductGrid.propTypes = {
-  addToCart: PropTypes.func,
+  /* addToCart: PropTypes.func, */
   addToCompare: PropTypes.func,
   addToWishlist: PropTypes.func,
   cartItems: PropTypes.array,
@@ -83,13 +83,13 @@ const mapDispatchToProps = dispatch => {
       selectedProductSize
     ) => {
       dispatch(
-        addToCart(
+      /*   addToCart(
           item,
           addToast,
           quantityCount,
           selectedProductColor,
           selectedProductSize
-        )
+        ) */
       );
     },
     addToWishlist: (item, addToast) => {

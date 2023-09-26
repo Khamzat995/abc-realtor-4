@@ -94,15 +94,14 @@ const FooterOne = ({
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/questions"}>Часто задаваемые вопросы</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>
                       Политика конфиденциальности
                     </Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "#/"}>Руководство по размерам</Link>
-                  </li>
-        
+                  </li> */}
                 </ul>
               </div>
             </div>

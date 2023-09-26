@@ -10,7 +10,7 @@ const TabProductTwo = ({ spaceBottomClass, category }) => {
   return (
     <div className={`product-area ${spaceBottomClass ? spaceBottomClass : ""}`}>
       <div className="container">
-        <SectionTitle titleText="Лучшие предложения" positionClass="text-center" />
+        <SectionTitle titleText="Лучшая недвижимость в Турции" positionClass="text-center" />
         <Tab.Container defaultActiveKey="bestSeller">
           <Nav
             variant="pills"

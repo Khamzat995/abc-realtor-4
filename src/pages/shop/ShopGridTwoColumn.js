@@ -54,7 +54,7 @@ const ShopGridTwoColumn = ({ location, products }) => {
   return (
     <Fragment>
       <MetaTags>
-        <title>ISTANBUL EXPERT | МАГАЗИН</title>
+        <title>ISTANBUL EXPERT | КАТАЛОГ</title>
         <meta
           name="description"
           content="Shop page of flone react minimalist eCommerce template."
@@ -63,7 +63,7 @@ const ShopGridTwoColumn = ({ location, products }) => {
 
       <BreadcrumbsItem to={process.env.PUBLIC_URL + "/"}>Главная</BreadcrumbsItem>
       <BreadcrumbsItem to={process.env.PUBLIC_URL + pathname}>
-        Магазин
+        Каталог
       </BreadcrumbsItem>
 
       <LayoutOne headerTop="visible">

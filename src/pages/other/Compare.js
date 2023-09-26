@@ -49,11 +49,11 @@ const Compare = ({
                       <table className="table table-bordered mb-0">
                         <tbody>
                           <tr>
-                            <th className="title-column">Информация о товаре</th>
+                            <th className="title-column">Информация о недвижимости</th>
                             {compareItems.map((compareItem, key) => {
-                              const cartItem = cartItems.filter(
+                              /* const cartItem = cartItems.filter(
                                 item => item.id === compareItem.id
-                              )[0];
+                              )[0]; */
                               return (
                                 <td className="product-image-title" key={key}>
                                   <div className="compare-remove">
@@ -93,7 +93,7 @@ const Compare = ({
                                       {compareItem.name}
                                     </Link>
                                   </div>
-                                  <div className="compare-btn">
+                                  {/* <div className="compare-btn">
                                     {compareItem.affiliateLink ? (
                                       <a
                                         href={compareItem.affiliateLink}
@@ -142,7 +142,7 @@ const Compare = ({
                                         Распродано
                                       </button>
                                     )}
-                                  </div>
+                                  </div> */}
                                 </td>
                               );
                             })}
@@ -225,7 +225,7 @@ const Compare = ({
                     <div className="item-empty-area__text">
                       Ничего не найдено в сравнении <br />{" "}
                       <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
-                        Перейти в магазин
+                        Перейти в каталог
                       </Link>
                     </div>
                   </div>

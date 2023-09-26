@@ -58,7 +58,7 @@ const ProductGridSingleTwo = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="red">{product.discount} год</span>
+                  <span className="red">сдача объекта {product.discount} г.</span>
                 ) : (
                   ""
                 )}

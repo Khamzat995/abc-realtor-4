@@ -60,11 +60,11 @@ const ProductImageGallery = ({ product }) => {
         {product.discount || product.new ? (
           <div className="product-img-badges">
             {product.discount ? (
-              <span className="pink">{product.discount} год</span>
+              <span className="pink">сдача объекта {product.discount} г.</span>
             ) : (
               ""
             )}
-            {product.new ? <span className="purple">New</span> : ""}
+            {product.new ? <span className="purple">Новинка</span> : ""}
           </div>
         ) : (
           ""

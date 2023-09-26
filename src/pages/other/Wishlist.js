@@ -59,7 +59,7 @@ const Wishlist = ({
                             <th>Изображение</th>
                             <th>Наименование</th>
                             <th>Цена</th>
-                            <th>Добавить в корзину</th>
+                           {/*  <th>Добавить в корзину</th> */}
                             <th>Удалить</th>
                           </tr>
                         </thead>
@@ -75,9 +75,9 @@ const Wishlist = ({
                             const finalDiscountedPrice = (
                               discountedPrice * currency.currencyRate
                             ).toFixed(2);
-                            const cartItem = cartItems.filter(
+                            /* const cartItem = cartItems.filter(
                               item => item.id === wishlistItem.id
-                            )[0];
+                            )[0]; */
                             return (
                               <tr key={key}>
                                 <td className="product-thumbnail">
@@ -131,7 +131,7 @@ const Wishlist = ({
                                   )}
                                 </td>
 
-                                <td className="product-wishlist-cart">
+                                {/* <td className="product-wishlist-cart">
                                   {wishlistItem.affiliateLink ? (
                                     <a
                                       href={wishlistItem.affiliateLink}
@@ -180,7 +180,7 @@ const Wishlist = ({
                                       Распродано
                                     </button>
                                   )}
-                                </td>
+                                </td> */}
 
                                 <td className="product-remove">
                                   <button
@@ -207,7 +207,7 @@ const Wishlist = ({
                         <Link
                           to={process.env.PUBLIC_URL + "/shop-grid-two-column"}
                         >
-                          Продолжить покупки
+                          Продолжить 
                         </Link>
                       </div>
                       <div className="cart-clear">
@@ -229,7 +229,7 @@ const Wishlist = ({
                     <div className="item-empty-area__text">
                       Список избранных пуст<br />{" "}
                       <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
-                        Перейти в магазин
+                        Перейти в каталог
                       </Link>
                     </div>
                   </div>

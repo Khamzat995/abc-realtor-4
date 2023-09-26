@@ -51,24 +51,26 @@ const BlogPostSeven = () => {
         <div className="row">
           <div className="col-md-6">
             <div className="dec-img mb-50">
-              <a href="#">
+              {/* <a href="#"> */}
                 <img
                   alt="картинка"
                   src={
                     process.env.PUBLIC_URL + "/assets/img/blog/blog-details.jpg"
                   }
                 />
-              </a>
+             {/*  </a> */}
             </div>
           </div>
           <div className="col-md-6">
             <div className="dec-img mb-50">
-              <img
-                alt="картинка"
-                src={
-                  process.env.PUBLIC_URL + "/assets/img/blog/blog-details.jpg"
-                }
-              />
+           {/*  <a href="#"> */}
+                <img
+                  alt="картинка"
+                  src={
+                    process.env.PUBLIC_URL + "/assets/img/blog/blog-details.jpg"
+                  }
+                />
+             {/*  </a> */}
             </div>
           </div>
         </div>

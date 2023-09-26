@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React, { Fragment, useState, useEffect } from "react";
 import Swiper from "react-id-swiper";
-import { getProductCartQuantity } from "../../helpers/product";
+/* import { getProductCartQuantity } from "../../helpers/product"; */
 import { Modal } from "react-bootstrap";
 import Rating from "./sub-components/ProductRating";
 import { connect } from "react-redux";
@@ -21,27 +21,27 @@ function ProductModal(props) {
   const [selectedProductSize, setSelectedProductSize] = useState(
     product.variation ? product.variation[0].size[0].name : ""
   );
-  const [productStock, setProductStock] = useState(
+  const [ setProductStock] = useState(
     product.variation ? product.variation[0].size[0].stock : product.stock
   );
-  const [quantityCount, setQuantityCount] = useState(1);
+  const [ setQuantityCount] = useState(1);
 
   const wishlistItem = props.wishlistitem;
   const compareItem = props.compareitem;
 
-  const addToCart = props.addtocart;
+  /* const addToCart = props.addtocart; */
   const addToWishlist = props.addtowishlist;
   const addToCompare = props.addtocompare;
 
   const addToast = props.addtoast;
-  const cartItems = props.cartitems;
+ /*  const cartItems = props.cartitems; */
 
-  const productCartQty = getProductCartQuantity(
+  /* const productCartQty = getProductCartQuantity(
     cartItems,
     product,
     selectedProductColor,
     selectedProductSize
-  );
+  ); */
 
   useEffect(() => {
     if (
@@ -335,9 +335,37 @@ function ProductModal(props) {
                         <i className="pe-7s-shuffle" />
                       </button>
                     </div>
+
+
+                   
+
+
+
                   </div>
+
+
+
                 )}
               </div>
+
+              <div className="pro-details-phone"> 
+      <div className="same-language-currency">
+        <a href=" tel:+905522868989"> Позвонить сейчас: 
+        <p>
+        <i className="fa fa-phone" />
+          <span> +90 552 286 89 89</span>
+          </p>
+          <p>
+        <i className="fa fa-phone" />
+          <span> +90 552 592 91 91</span>
+          </p>
+
+          </a>
+         {/*  <h4>ISTANBUL-EXPERT</h4> */}
+      </div>
+                    </div>
+
+
             </div>
           </div>
         </div>

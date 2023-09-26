@@ -56,11 +56,11 @@ const ProductGridListSingle = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="pink">-{product.discount}%</span>
+                  <span className="pink">сдача объекта {product.discount} г.</span>
                 ) : (
                   ""
                 )}
-                {product.new ? <span className="purple">New</span> : ""}
+                {product.new ? <span className="purple">Новинка</span> : ""}
               </div>
             ) : (
               ""
@@ -81,7 +81,7 @@ const ProductGridListSingle = ({
                   <i className="pe-7s-like" />
                 </button>
               </div>
-              <div className="pro-same-action pro-cart">
+              {/* <div className="pro-same-action pro-cart">
                 {product.affiliateLink ? (
                   <a
                     href={product.affiliateLink}
@@ -119,7 +119,7 @@ const ProductGridListSingle = ({
                     Out of Stock
                   </button>
                 )}
-              </div>
+              </div> */}
               <div className="pro-same-action pro-quickview">
                 <button onClick={() => setModalShow(true)} title="Quick View">
                   <i className="pe-7s-look" />
@@ -227,7 +227,7 @@ const ProductGridListSingle = ({
                 )}
 
                 <div className="shop-list-actions d-flex align-items-center">
-                  <div className="shop-list-btn btn-hover">
+                  {/* <div className="shop-list-btn btn-hover">
                     {product.affiliateLink ? (
                       <a
                         href={product.affiliateLink}
@@ -271,7 +271,7 @@ const ProductGridListSingle = ({
                         Out of Stock
                       </button>
                     )}
-                  </div>
+                  </div> */}
 
                   <div className="shop-list-wishlist ml-10">
                     <button

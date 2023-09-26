@@ -56,11 +56,11 @@ const ProductGridSingle = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="pink">-{product.discount}%</span>
+                  <span className="pink">сдача объекта {product.discount} г.</span>
                 ) : (
                   ""
                 )}
-                {product.new ? <span className="purple">New</span> : ""}
+                {product.new ? <span className="purple">Новинка</span> : ""}
               </div>
             ) : (
               ""
@@ -93,7 +93,7 @@ const ProductGridSingle = ({
                   </a>
                 ) : product.variation && product.variation.length >= 1 ? (
                   <Link to={`${process.env.PUBLIC_URL}/product/${product.id}`}>
-                    Select Option
+                   {/*  Select Option */}
                   </Link>
                 ) : product.stock && product.stock > 0 ? (
                   <button
