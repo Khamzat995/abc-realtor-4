@@ -1,18 +1,88 @@
 [
   {
-    "id": "6",
+    "id": "1",
     "sku": "asdf128",
-    "name": "Lorem ipsum jacket",
-    "price": 19.85,
+    "name": "Квартира",
+    "price": 198500,
+    "location": "Стамбул, район Бейликдюзю",
+    "rooms": "1+1",
+    "square": "100",
     "discount": 0,
     "offerEnd": "October 17, 2020 12:11:00",
     "new": true,
     "rating": 5,
-    "saleCount": 65,
-    "category": ["квартира", "1+1", "2+1", "3+1", "4+1", "5+1"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите", "C видом на море"],
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          },
+          {
+            "name": "xxxl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
@@ -28,21 +98,21 @@
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/6_1_tyfkr1.webp"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "shortDescription": "первая в базе",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
   },    
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Lorem ipsum fashion jacket",
+    "name": "Вилла",
     "price": 29.85,
-    "discount": 10,
+    "discount": 2024,
     "offerEnd": "October 18, 2020 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["вилла", "3+2", "5+2"],
-    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "category": ["Виллы"],
+    "tag": ["", ""],
     "stock": 0,
     "image": [
       "/assets/img/product/fashion/8.jpg",
@@ -148,7 +218,7 @@
     "sku": "asdf135",
     "name": "Lorem ipsum monitor",
     "price": 14.5,
-    "discount": 30,
+    "discount": 2024,
     "new": false,
     "rating": 4,
     "saleCount": 100,
@@ -214,7 +284,7 @@
     "sku": "asdf138",
     "name": "Lorem ipsum grinder",
     "price": 22.5,
-    "discount": 20,
+    "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 25,
@@ -237,7 +307,7 @@
     "name": "Lorem ipsum bluetooth",
     "price": 32.5,
     "discount": 10,
-    "new": true,
+    "new": false,
     "rating": 4,
     "saleCount": 15,
     "category": ["electronics"],
@@ -280,13 +350,40 @@
     "sku": "asdf141",
     "name": "Пример 19",
     "price": 200000,
-    "discount": 2025,
+    "location": "Стамбул, Бейликдюзю",
+    "rooms": "1+1",
+    "square": "100",
+    "discount": 0,
+    "offerEnd": "October 17, 2020 12:11:00",
     "new": true,
     "rating": 5,
-    "saleCount": 1976,
-    "category": ["квартиры", "c гражданством"],
-    "tag": ["с видом на море", "сите"],
-    "stock": 25,
+    "saleCount": 5,
+    "category": ["Квартиры", "Популярные"],
+    "tag": ["Cите", "C видом на море"],
+    "variation": [
+      { 
+        "size": [
+          {
+            "name": "1+1"
+          },
+          {
+            "name": "2+1"
+          },
+          {
+            "name": "3+1"
+          },
+          {
+            "name": "4+1"
+          },
+          {
+            "name": "5+1"
+          },
+          {
+            "name": "5+..."
+          }
+        ]
+      }
+    ],
     "image": [
       "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
@@ -312,11 +409,11 @@
     "sku": "asdf142",
     "name": "Lorem ipsum chair three",
     "price": 12.5,
-    "discount": 2025,
+    "discount": 0,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["furniture"],
+    "category": ["furniture", "Популярные"],
     "tag": ["furniture"],
     "stock": 20,
     "image": [
@@ -347,8 +444,8 @@
     "new": false,
     "rating": 5,
     "saleCount": 100,
-    "category": ["квартиры"],
-    "tag": ["сите, с видом на море"],
+    "category": ["Квартиры"],
+    "tag": ["Cите", "Популярные", "C видом на море"],
     "stock": 40,
     "image": [
       "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
@@ -373,15 +470,16 @@
   {
     "id": "22",
     "sku": "asdf144",
-    "name": "Lorem ipsum sofa two",
+    "name": "Квартира 1+1, 110 м², Стамбул Бейликдюзю",
     "price": 22.5,
     "discount": 2024,
-    "new": true,
+    "new": false,
     "rating": 5,
     "saleCount": 120,
     "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 45,
+    "location": "Стамбул Бейликдюзю",
     "image": [
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/55_1_il5ak0.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
@@ -430,8 +528,8 @@
     "sku": "asdf146",
     "name": "Lorem ipsum sofa four",
     "price": 22.5,
-    "discount": 20,
-    "new": true,
+    "discount": 2025,
+    "new": false,
     "rating": 5,
     "saleCount": 25,
     "category": ["furniture"],
@@ -452,7 +550,7 @@
     "sku": "asdf147",
     "name": "Lorem ipsum sofa five",
     "price": 32.5,
-    "discount": 10,
+    "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 15,

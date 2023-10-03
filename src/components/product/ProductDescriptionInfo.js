@@ -2,12 +2,11 @@ import PropTypes from "prop-types";
 import React, { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
 import { connect } from "react-redux";
-/* import { getProductCartQuantity } from "../../helpers/product"; */
+import { getProductCartQuantity } from "../../helpers/product";
 import { addToCart } from "../../redux/actions/cartActions";
 import { addToWishlist } from "../../redux/actions/wishlistActions";
 import { addToCompare } from "../../redux/actions/compareActions";
 import Rating from "./sub-components/ProductRating";
-/* import Logo from "../../components/header/Logo"; */
 
 const ProductDescriptionInfo = ({
   product,
@@ -29,17 +28,17 @@ const ProductDescriptionInfo = ({
   const [selectedProductSize, setSelectedProductSize] = useState(
     product.variation ? product.variation[0].size[0].name : ""
   );
-  const [ setProductStock] = useState(
+  const [productStock, setProductStock] = useState(
     product.variation ? product.variation[0].size[0].stock : product.stock
   );
-  /* const [quantityCount, setQuantityCount] = useState(1);
+  const [quantityCount, setQuantityCount] = useState(1);
 
   const productCartQty = getProductCartQuantity(
     cartItems,
     product,
     selectedProductColor,
     selectedProductSize
-  ); */
+  );
 
   return (
     <div className="product-details-content ml-70">
@@ -72,7 +71,7 @@ const ProductDescriptionInfo = ({
       {product.variation ? (
         <div className="pro-details-size-color">
           <div className="pro-details-color-wrap">
-            <span>Color</span>
+            <span>Цвета</span>
             <div className="pro-details-color-content">
               {product.variation.map((single, key) => {
                 return (
@@ -91,7 +90,7 @@ const ProductDescriptionInfo = ({
                         setSelectedProductColor(single.color);
                         setSelectedProductSize(single.size[0].name);
                         setProductStock(single.size[0].stock);
-                        
+                        setQuantityCount(1);
                       }}
                     />
                     <span className="checkmark"></span>
@@ -101,7 +100,7 @@ const ProductDescriptionInfo = ({
             </div>
           </div>
           <div className="pro-details-size">
-            <span>Size</span>
+            <span>Другие варианты комнат:</span>
             <div className="pro-details-size-content">
               {product.variation &&
                 product.variation.map(single => {
@@ -123,7 +122,7 @@ const ProductDescriptionInfo = ({
                             onChange={() => {
                               setSelectedProductSize(singleSize.name);
                               setProductStock(singleSize.stock);
-                              
+                              setQuantityCount(1);
                             }}
                           />
                           <span className="size-name">{singleSize.name}</span>
@@ -146,13 +145,13 @@ const ProductDescriptionInfo = ({
               rel="noopener noreferrer"
               target="_blank"
             >
-              Buy Now
+              Купить сейчас
             </a>
           </div>
         </div>
       ) : (
         <div className="pro-details-quality">
-          {/* <div className="cart-plus-minus">
+          <div className="cart-plus-minus">
             <button
               onClick={() =>
                 setQuantityCount(quantityCount > 1 ? quantityCount - 1 : 1)
@@ -179,8 +178,8 @@ const ProductDescriptionInfo = ({
             >
               +
             </button>
-          </div> */}
-          {/* <div className="pro-details-cart btn-hover">
+          </div>
+          <div className="pro-details-cart btn-hover">
             {productStock && productStock > 0 ? (
               <button
                 onClick={() =>
@@ -195,12 +194,12 @@ const ProductDescriptionInfo = ({
                 disabled={productCartQty >= productStock}
               >
                 {" "}
-                Add To Cart{" "}==
+                Добавить в корзину{" "}
               </button>
             ) : (
-              <button disabled>Out of Stock</button>
+              <button disabled>Распродано</button>
             )}
-          </div> */}
+          </div>
           <div className="pro-details-wishlist">
             <button
               className={wishlistItem !== undefined ? "active" : ""}
@@ -249,7 +248,7 @@ const ProductDescriptionInfo = ({
       ) : (
         ""
       )}
-      {product.tag ? (
+       {product.tag ? (
         <div className="pro-details-meta">
           <span>Теги :</span>
           <ul>
@@ -270,65 +269,49 @@ const ProductDescriptionInfo = ({
 
       <div className="pro-details-social">
         <ul>
-        <li>
-            <a href="//twitter.com">
+          <li>
+            <a href="//facebook.com">
               <i className="fa fa-whatsapp" />
             </a>
           </li>
           <li>
-            <a href="//dribbble.com">
+            <a href="//facebook.com">
               <i className="fa fa-paper-plane" />
             </a>
           </li>
           <li>
-            <a href="//dribbble.com">
+            <a href="//instagram.com">
               <i className="fa fa-instagram" />
             </a>
           </li>
-          <li>
-            <a href="//dribbble.com">
-              <i className="fa fa-dribbble" />
-            </a>
-          </li>
-
           <li>
             <a href="//facebook.com">
               <i className="fa fa-facebook" />
             </a>
           </li>
-          
-          <li>
+          {/* <li>
+            <a href="//dribbble.com">
+              <i className="fa fa-dribbble" />
+            </a>
+          </li> */}
+          {/* <li>
             <a href="//pinterest.com">
               <i className="fa fa-pinterest-p" />
             </a>
           </li>
-          
+          <li>
+            <a href="//twitter.com">
+              <i className="fa fa-x" />
+            </a>
+          </li>
           <li>
             <a href="//linkedin.com">
               <i className="fa fa-linkedin" />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
-      <div className="pro-details-phone"> 
-      <div className="same-language-currency">
-        <a href=" tel:+905522868989"> Позвонить сейчас: 
-        <p>
-        <i className="fa fa-phone" />
-          <span> +90 552 286 89 89</span>
-          </p>
-          <p>
-        <i className="fa fa-phone" />
-          <span> +90 552 592 91 91</span>
-          </p>
-
-          </a>
-         {/*  <h4>ISTANBUL-EXPERT</h4> */}
-      </div>
-      </div>
-       </div>
-      
-    
+    </div>
   );
 };
 

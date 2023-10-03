@@ -58,7 +58,7 @@ const ProductGridSingleTwo = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="red">сдача объекта {product.discount} г.</span>
+                  <span className="red">Сдача объекта {product.discount} г.</span>
                 ) : (
                   ""
                 )}
@@ -126,6 +126,8 @@ const ProductGridSingleTwo = ({
               </button>
             </div>
           </div>
+
+
           <div className="product-content-2">
             <div
               className={`title-price-wrap-2 ${titlePriceClass ? titlePriceClass : ""
@@ -136,20 +138,25 @@ const ProductGridSingleTwo = ({
                   {product.name}
                 </Link>
               </h3>
+
               <div className="price-2">
                 {discountedPrice !== null ? (
                   <Fragment>
                     <span>
                       {currency.currencySymbol + finalDiscountedPrice}
                     </span>{" "}
-                    <span className="old">
+                    {/* <span className="old">
                       {currency.currencySymbol + finalProductPrice}
-                    </span>
+                    </span> */}
                   </Fragment>
                 ) : (
                   <span>{currency.currencySymbol + finalProductPrice} </span>
                 )}
               </div>
+
+              
+             
+              
             </div>
             <div className="pro-wishlist-2">
               <button
@@ -165,6 +172,31 @@ const ProductGridSingleTwo = ({
                 <i className="fa fa-heart-o" />
               </button>
             </div>
+          </div>
+
+            <div className="product-discript-mappus">
+          <div className="product-discript-map">
+          <i className="fa fa-bed" aria-hidden="true"></i>
+          &nbsp;&nbsp;<h5>{product.rooms}</h5>
+          </div>
+
+          <div className="product-discript-map">
+          <i className="fa fa-cube" aria-hidden="true"></i>
+          &nbsp;&nbsp;<h5>{product.square} м²</h5>
+             </div>
+
+             <div className="product-discript-map">
+             <i className="fa fa-building-o" aria-hidden="true"></i>&nbsp;&nbsp;
+              <h5>{product.tag[0]} </h5>
+             </div>
+             </div>
+
+             <div className="product-discript">
+            <div className="product-discript-map">
+            <i className="fa fa-map-marker" aria-hidden="true"></i>
+          <h5>&nbsp;{product.location}</h5>
+            </div>
+
           </div>
         </div>
       </div>

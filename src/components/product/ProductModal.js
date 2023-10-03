@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React, { Fragment, useState, useEffect } from "react";
 import Swiper from "react-id-swiper";
-/* import { getProductCartQuantity } from "../../helpers/product"; */
+import { getProductCartQuantity } from "../../helpers/product";
 import { Modal } from "react-bootstrap";
 import Rating from "./sub-components/ProductRating";
 import { connect } from "react-redux";
@@ -21,27 +21,27 @@ function ProductModal(props) {
   const [selectedProductSize, setSelectedProductSize] = useState(
     product.variation ? product.variation[0].size[0].name : ""
   );
-  const [ setProductStock] = useState(
+  const [productStock, setProductStock] = useState(
     product.variation ? product.variation[0].size[0].stock : product.stock
   );
-  const [ setQuantityCount] = useState(1);
+  const [quantityCount, setQuantityCount] = useState(1);
 
   const wishlistItem = props.wishlistitem;
   const compareItem = props.compareitem;
 
-  /* const addToCart = props.addtocart; */
+  const addToCart = props.addtocart;
   const addToWishlist = props.addtowishlist;
   const addToCompare = props.addtocompare;
 
   const addToast = props.addtoast;
- /*  const cartItems = props.cartitems; */
+  const cartItems = props.cartitems;
 
-  /* const productCartQty = getProductCartQuantity(
+  const productCartQty = getProductCartQuantity(
     cartItems,
     product,
     selectedProductColor,
     selectedProductSize
-  ); */
+  );
 
   useEffect(() => {
     if (
@@ -109,7 +109,7 @@ function ProductModal(props) {
                             <img
                               src={process.env.PUBLIC_URL + single}
                               className="img-fluid"
-                              alt="картинка"
+                              alt=""
                             />
                           </div>
                         </div>
@@ -127,7 +127,7 @@ function ProductModal(props) {
                             <img
                               src={process.env.PUBLIC_URL + single}
                               className="img-fluid"
-                              alt="картинка"
+                              alt=""
                             />
                           </div>
                         </div>
@@ -200,40 +200,40 @@ function ProductModal(props) {
                       </div>
                     </div>
                     <div className="pro-details-size">
-                      <span>Size</span>
+                      <span>Другие варианты комнат:</span>
                       <div className="pro-details-size-content">
                         {product.variation &&
                           product.variation.map(single => {
                             return single.color === selectedProductColor
                               ? single.size.map((singleSize, key) => {
-                                return (
-                                  <label
-                                    className={`pro-details-size-content--single`}
-                                    key={key}
-                                  >
-                                    <input
-                                      type="radio"
-                                      value={singleSize.name}
-                                      checked={
-                                        singleSize.name ===
+                                  return (
+                                    <label
+                                      className={`pro-details-size-content--single`}
+                                      key={key}
+                                    >
+                                      <input
+                                        type="radio"
+                                        value={singleSize.name}
+                                        checked={
+                                          singleSize.name ===
                                           selectedProductSize
-                                          ? "checked"
-                                          : ""
-                                      }
-                                      onChange={() => {
-                                        setSelectedProductSize(
-                                          singleSize.name
-                                        );
-                                        setProductStock(singleSize.stock);
-                                        setQuantityCount(1);
-                                      }}
-                                    />
-                                    <span className="size-name">
-                                      {singleSize.name}
-                                    </span>
-                                  </label>
-                                );
-                              })
+                                            ? "checked"
+                                            : ""
+                                        }
+                                        onChange={() => {
+                                          setSelectedProductSize(
+                                            singleSize.name
+                                          );
+                                          setProductStock(singleSize.stock);
+                                          setQuantityCount(1);
+                                        }}
+                                      />
+                                      <span className="size-name">
+                                        {singleSize.name}
+                                      </span>
+                                    </label>
+                                  );
+                                })
                               : "";
                           })}
                       </div>
@@ -256,7 +256,7 @@ function ProductModal(props) {
                   </div>
                 ) : (
                   <div className="pro-details-quality">
-                   {/*  <div className="cart-plus-minus">
+                    <div className="cart-plus-minus">
                       <button
                         onClick={() =>
                           setQuantityCount(
@@ -285,8 +285,8 @@ function ProductModal(props) {
                       >
                         +
                       </button>
-                    </div> */}
-                    {/* <div className="pro-details-cart btn-hover">
+                    </div>
+                    <div className="pro-details-cart btn-hover">
                       {productStock && productStock > 0 ? (
                         <button
                           onClick={() =>
@@ -301,12 +301,12 @@ function ProductModal(props) {
                           disabled={productCartQty >= productStock}
                         >
                           {" "}
-                          Добавить в корзину +{" "}
+                          Add To Cart{" "}
                         </button>
                       ) : (
-                        <button disabled>Распродано</button>
+                        <button disabled>Out of Stock</button>
                       )}
-                    </div> */}
+                    </div>
                     <div className="pro-details-wishlist">
                       <button
                         className={wishlistItem !== undefined ? "active" : ""}
@@ -335,35 +335,32 @@ function ProductModal(props) {
                         <i className="pe-7s-shuffle" />
                       </button>
                     </div>
-
-
-                   
-
-
-
                   </div>
-
-
-
                 )}
               </div>
 
-              <div className="pro-details-phone"> 
-      <div className="same-language-currency">
-        <a href=" tel:+905522868989"> Позвонить сейчас: 
-        <p>
-        <i className="fa fa-phone" />
-          <span> +90 552 286 89 89</span>
-          </p>
-          <p>
-        <i className="fa fa-phone" />
-          <span> +90 552 592 91 91</span>
-          </p>
+<div className="pro-detail-phone">
+  <div className="same-language-currency">
+    <p>Позвонить сейчас:</p>
+    <p>
+    <a href="tel:+905522868989">
+      <i className="fa fa-phone"/>
+        <span> +90 552 286 89 89</span></a>
+    </p> 
+    <p>
+    <a href="tel:+905525929191">
+      <i className="fa fa-phone"/>
+        <span> +90 552 592 91 91</span></a>
+    </p> 
 
-          </a>
-         {/*  <h4>ISTANBUL-EXPERT</h4> */}
-      </div>
-                    </div>
+
+   
+    
+  </div>
+
+</div>
+
+
 
 
             </div>

@@ -576,6 +576,8 @@
     z-index: 3;
     top: 20px;
     left: 20px;
+    
+    
     span {
       font-size: 14px;
       font-weight: 600;
@@ -589,11 +591,13 @@
       border-radius: 3px;
       text-shadow: 1px 1px 1px black;
       
+      
       &.pink {
         background-color: #34c834;
       }
       &.purple {
         background-color: #34c834;
+        
       }
     }
   }
