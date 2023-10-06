@@ -1183,6 +1183,356 @@
     "shortDescription": "Квартира 5+1, площадь: 384 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
     "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
   },
+
+  {
+    "id": "36",
+    "sku": "asdf36",
+    "name": "Квартира",
+    "price": 130000,
+    "location": "Стамбул, район Картал",
+    "rooms": "1+1",
+    "square": "54",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/6_urld67.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509686/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/2_xjxf4v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509688/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/3_jqlyho.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/5_wzq4dq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/4_v3nhcn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509689/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/7_mlu9vq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/8_dfb73y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509694/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/14_ti7v0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/11_lzjlit.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509697/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/21_nm4bfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/15_aavfen.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/13_ihdikt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/17_fs0aqr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/18_xwdyq1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509692/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/9_f0chdo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/12_katsim.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510226/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Price1_jyskqu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510227/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Location_gibyai.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 54 м², Стамбул, европейская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный жилой комплекс YucelPark, расположенный рядом с одним из пяти крупнейших, пышный зеленых парков Стамбула. С видом на Мраморное море и острова. Близость к метро и основным транспортным развязкам, таким как аэропорт и мосты. В шаговой доступности пляж, парк и основные достопримечательности города." 
+  },
+  {
+    "id": "37",
+    "sku": "asdf37",
+    "name": "Квартира",
+    "price": 170000,
+    "location": "Стамбул, район Картал",
+    "rooms": "2+1",
+    "square": "95",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509686/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/2_xjxf4v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/6_urld67.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509688/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/3_jqlyho.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/5_wzq4dq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/4_v3nhcn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509689/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/7_mlu9vq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/8_dfb73y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509694/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/14_ti7v0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/11_lzjlit.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509697/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/21_nm4bfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/15_aavfen.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/13_ihdikt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/17_fs0aqr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/18_xwdyq1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509692/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/9_f0chdo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/12_katsim.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510226/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Price1_jyskqu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510227/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Location_gibyai.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 95 м², Стамбул, европейская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный жилой комплекс YucelPark, расположенный рядом с одним из пяти крупнейших, пышный зеленых парков Стамбула. С видом на Мраморное море и острова. Близость к метро и основным транспортным развязкам, таким как аэропорт и мосты. В шаговой доступности пляж, парк и основные достопримечательности города." 
+  },
+  {
+    "id": "38",
+    "sku": "asdf38",
+    "name": "Квартира",
+    "price": 280000,
+    "location": "Стамбул, район Картал",
+    "rooms": "3+1",
+    "square": "111",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509688/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/3_jqlyho.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/6_urld67.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509686/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/2_xjxf4v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/5_wzq4dq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509687/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/4_v3nhcn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509689/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/7_mlu9vq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/8_dfb73y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509694/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/14_ti7v0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/11_lzjlit.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509697/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/21_nm4bfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509693/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/15_aavfen.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509690/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/13_ihdikt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/17_fs0aqr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509695/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/18_xwdyq1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509692/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/9_f0chdo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696509691/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/12_katsim.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510226/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Price1_jyskqu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510227/Apartments_new_2023/apartment_8_KANDILLI_YUCELPARK/Location_gibyai.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 111 м², Стамбул, европейская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный жилой комплекс YucelPark, расположенный рядом с одним из пяти крупнейших, пышный зеленых парков Стамбула. С видом на Мраморное море и острова. Близость к метро и основным транспортным развязкам, таким как аэропорт и мосты. В шаговой доступности пляж, парк и основные достопримечательности города." 
+  },
+  {
+    "id": "39",
+    "sku": "asdf39",
+    "name": "Квартира",
+    "price": 2260000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "3+1",
+    "square": "293",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001226_j8fkw3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001225_zmxaqz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001228_pucmnb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519693/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001224_l6mmwc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519694/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/100227_ajn1zr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519692/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001223_xp3xui.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519703/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001229_nvvdnx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/lounge_room_u1tnvy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/indoor_pool_uqngk8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519700/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/hotub_erejhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519699/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/cinema_cfawsi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519705/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/music_room_ik5xdq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/gym_k98ldo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/basketball_ijndql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/map_cvgp1z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/Price_uwnwj7.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 293 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Замечательный жилой комплекс люкс класса Kandilli Nakkastepe, расположен в центре Uskudar одиного из самых престижных районов Стамбула. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "40",
+    "sku": "asdf40",
+    "name": "Квартира",
+    "price": 2900000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "3+1",
+    "square": "336",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001228_pucmnb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001226_j8fkw3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001225_zmxaqz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519693/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001224_l6mmwc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519694/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/100227_ajn1zr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519692/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001223_xp3xui.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519703/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001229_nvvdnx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/lounge_room_u1tnvy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/indoor_pool_uqngk8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519700/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/hotub_erejhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519699/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/cinema_cfawsi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519705/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/music_room_ik5xdq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/gym_k98ldo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/basketball_ijndql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/map_cvgp1z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/Price_uwnwj7.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 336 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Замечательный жилой комплекс люкс класса Kandilli Nakkastepe, расположен в центре Uskudar одиного из самых престижных районов Стамбула. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "41",
+    "sku": "asdf41",
+    "name": "Квартира",
+    "price": 3255000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "4+1",
+    "square": "361",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001225_zmxaqz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001228_pucmnb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001226_j8fkw3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519693/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001224_l6mmwc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519694/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/100227_ajn1zr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519692/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001223_xp3xui.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519703/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001229_nvvdnx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/lounge_room_u1tnvy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/indoor_pool_uqngk8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519700/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/hotub_erejhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519699/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/cinema_cfawsi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519705/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/music_room_ik5xdq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/gym_k98ldo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/basketball_ijndql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/map_cvgp1z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/Price_uwnwj7.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 361 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Замечательный жилой комплекс люкс класса Kandilli Nakkastepe, расположен в центре Uskudar одиного из самых престижных районов Стамбула. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "42",
+    "sku": "asdf42",
+    "name": "Квартира",
+    "price": 3970000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "4+1",
+    "square": "496",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001228_pucmnb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001226_j8fkw3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519696/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001225_zmxaqz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519693/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001224_l6mmwc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519694/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/100227_ajn1zr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519692/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001223_xp3xui.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519703/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/1001229_nvvdnx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/lounge_room_u1tnvy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519702/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/indoor_pool_uqngk8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519700/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/hotub_erejhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519699/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/cinema_cfawsi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519705/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/music_room_ik5xdq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/gym_k98ldo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519697/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/basketball_ijndql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/map_cvgp1z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696519704/Apartments_new_2023/apartment_9_KANDILLI_NAKKASTEPE/Price_uwnwj7.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 496 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Замечательный жилой комплекс люкс класса Kandilli Nakkastepe, расположен в центре Uskudar одиного из самых престижных районов Стамбула. Идеальное сочетание роскоши и комфорта." 
+  },
   
   
 

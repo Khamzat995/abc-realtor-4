@@ -65,7 +65,7 @@ const ProductGridListSingle = ({
             ) : (
               ""
             )}
-
+              
             <div className="product-action">
               <div className="pro-same-action pro-wishlist">
                 <button
@@ -129,17 +129,14 @@ const ProductGridListSingle = ({
           </div>
           <div className="product-content text-center">
             <h3>
-              <Link to={process.env.PUBLIC_URL + "/product/" + product.id}>
-                {product.name}
+              <Link className="product-content-flex" to={process.env.PUBLIC_URL + "/product/" + product.id}>
+                {product.name}  &nbsp;
+                <span className="fa fa-bed" aria-hidden="true">&nbsp;{product.rooms}</span>&nbsp;
+                <span className="fa fa-cube" aria-hidden="true">&nbsp;{product.square} м²</span>&nbsp;
+                <span className="fa fa-building-o" aria-hidden="true">&nbsp;{product.tag[0]}</span>
               </Link>
             </h3>
-            {product.rating && product.rating > 0 ? (
-              <div className="product-rating">
-                <Rating ratingValue={product.rating} />
-              </div>
-            ) : (
-              ""
-            )}
+
             <div className="product-price">
               {discountedPrice !== null ? (
                 <Fragment>
@@ -152,6 +149,15 @@ const ProductGridListSingle = ({
                 <span>{currency.currencySymbol + finalProductPrice} </span>
               )}
             </div>
+
+            {product.rating && product.rating > 0 ? (
+              <div className="product-rating">
+                <Rating ratingValue={product.rating} />
+              </div>
+            ) : (
+              ""
+            )}
+            
           </div>
         </div>
         <div className="shop-list-wrap mb-30">

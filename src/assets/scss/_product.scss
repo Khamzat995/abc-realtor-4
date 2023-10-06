@@ -391,6 +391,13 @@ background-color: rgba(196, 190, 190, 0.151); */
 
       margin: 0;
     }
+.product-content-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -10px;
+}
+
     .product-rating {
       margin: 3px 0 3px;
       i {
@@ -400,20 +407,22 @@ background-color: rgba(196, 190, 190, 0.151); */
 
         color: #5f5d5d;
         &.yellow {
-          color: #ffa900;
+          color: #ffc900;
+          text-shadow: 0.5px 0.5px black;
         }
       }
     }
     .product-price {
       span {
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 500;
 
         position: relative;
 
         margin: 0 9px;
 
-        color: #000;
+        color: #24cc24;
+        text-shadow: 0.5px 0.5px black ;
         &::before {
           position: absolute;
           top: 10px;
@@ -568,7 +577,8 @@ background-color: rgba(196, 190, 190, 0.151); */
 
         color: #5f5d5d;
         &.yellow {
-          color: #ffa900;
+          color: #ffc900;
+          text-shadow: 0.5px 0.5px black;
         }
       }
     }
@@ -609,7 +619,7 @@ background-color: rgba(196, 190, 190, 0.151); */
   }
 
   .pro-details-list-citizenship {
-color: #ffd100;
+color: #ffc900;
 text-shadow: 0.5px 0.5px black;
   }
   .pro-details-size-color {
@@ -1754,7 +1764,7 @@ font-size: larger;
   position: absolute;
   top: 90%;
   left: 5%;
-  color: #ffd100;
+  color: #ffc900;
   
   text-shadow: 0.5px 0.5px black;
 }
