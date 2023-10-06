@@ -1,4 +1,5 @@
-{
+[
+   {
     "id": "8",
     "sku": "asdf130",
     "name": "Вилла",
@@ -278,7 +279,7 @@
       } 
     ],
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
+      
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
@@ -341,7 +342,7 @@
     "tag": ["Cите", "Популярные", "C видом на море"],
     "stock": 40,
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
+      
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
@@ -375,7 +376,6 @@
     "location": "Стамбул Бейликдюзю",
     "image": [
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/55_1_il5ak0.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
       "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
@@ -2924,5 +2924,122 @@
     ],
     "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
     "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+
+
+////////
+
+,
+  {
+    "id": "12",
+    "sku": "asdf12",
+    "name": "Квартира",
+    "price": 1230000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "1+1",
+    "square": "90",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 90 м², Стамбул район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+
+
+
+  {
+    "id": "199",
+    "sku": "asdf199.",
+    "name": "Вилла",
+    "price": 198500,
+    "location": "Стамбул, район Бейликдюзю",
+    "rooms": "1+1",
+    "square": "100",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Виллы"],
+    "tag": ["Cите,", "C видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp", 
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 3
+          },
+          {
+            "name": "2+1",
+            "stock": 2
+          },
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 75 м², Стамбул район Бейликдюзю",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
   }
 
+
+
+]

@@ -607,8 +607,13 @@ background-color: rgba(196, 190, 190, 0.151); */
       }
     }
   }
+
+  .pro-details-list-citizenship {
+color: #ffd100;
+text-shadow: 0.5px 0.5px black;
+  }
   .pro-details-size-color {
-    display: flex;
+    display: none;
     @media #{$xs-layout} {
       display: block;
     }
@@ -1743,6 +1748,15 @@ font-size: larger;
 .product-discript-mappus {
   display: flex;
   justify-content: space-between;
+}
+
+.product-p-citizenship {
+  position: absolute;
+  top: 90%;
+  left: 5%;
+  color: #ffd100;
+  
+  text-shadow: 0.5px 0.5px black;
 }
 /* product hm3 */
 

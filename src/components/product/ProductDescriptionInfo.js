@@ -66,7 +66,11 @@ const ProductDescriptionInfo = ({
       )}
       <div className="pro-details-list">
         <p>{product.shortDescription}</p>
+         <p className="pro-details-list-citizenship">{product.citizenship}</p>   
+         {/* <i class="fa fa-eye" aria-hidden="true"> Подробности</i> */}
       </div>
+     
+      
 
       {product.variation ? (
         <div className="pro-details-size-color">
@@ -100,7 +104,7 @@ const ProductDescriptionInfo = ({
             </div>
           </div>
           <div className="pro-details-size">
-            <span>Другие варианты комнат:</span>
+            {/* <span>Другие варианты комнат:</span> */}
             <div className="pro-details-size-content">
               {product.variation &&
                 product.variation.map(single => {
@@ -232,7 +236,7 @@ const ProductDescriptionInfo = ({
       )}
       {product.category ? (
         <div className="pro-details-meta">
-          <span>Категории :</span>
+          <span>Категории:</span>
           <ul>
             {product.category.map((single, key) => {
               return (
@@ -250,7 +254,7 @@ const ProductDescriptionInfo = ({
       )}
        {product.tag ? (
         <div className="pro-details-meta">
-          <span>Теги :</span>
+          <span>Теги:</span>
           <ul>
             {product.tag.map((single, key) => {
               return (

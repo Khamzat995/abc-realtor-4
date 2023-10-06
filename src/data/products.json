@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "sku": "asdf111",
+    "sku": "asdf1",
     "name": "Квартира",
-    "price": 198500,
-    "location": "Стамбул, район Бейликдюзю",
+    "price": 660000,
+    "location": "Стамбул, район Бейоглу",
     "rooms": "1+1",
     "square": "100",
     "discount": 0,
@@ -13,74 +13,115 @@
     "rating": 5,
     "saleCount": 5,
     "category": ["Квартиры"],
-    "tag": ["Cите,", "C видом на море"],
+    "tag": ["Сите,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
     "variation": [
       {
         "color": "white",
-        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
         "size": [
           {
             "name": "1+1",
             "stock": 3
-          },
-          {
-            "name": "2+1",
-            "stock": 2
-          },
-          {
-            "name": "3+1",
-            "stock": 5
           }
         ]
       } 
     ],
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/6_1_tyfkr1.webp"
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/1121_1_bjn4it.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/221_1_e9cb2p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/55_1_y4vazj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432229/Apartments_new_2023/apartment_1_BENESTA/3_1_vqmvk9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/7_1_knl8n9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/6_1_pptbpm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/11_1_tqmxru.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432222/Apartments_new_2023/apartment_1_BENESTA/1.5_1_m7o8ia.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/15_1_x3lobs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/1.2_1_fcqg6i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432235/Apartments_new_2023/apartment_1_BENESTA/10_1_tbtnh4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/2_1_vhuafh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/8_1_mxiutt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432220/Apartments_new_2023/apartment_1_BENESTA/1.1_1_besvtj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432230/Apartments_new_2023/apartment_1_BENESTA/3_1_1_wx0pug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/1_1_1_u5qwhw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/2_1_1_x5bwfb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/map_benesta_1_vz2rqi.webp"   
     ],
-    "shortDescription": "Квартира 1+1,  площадь: 75 м², район: Стамбул Бейликдюзю",
-    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
+    "shortDescription": "Квартира 1+1,  площадь: 100 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu)",
+    "fullDescription": "Комфортная квартира в элитном комплексе BENESTA с системой умный дом. Всё включено: охрана 7/24, ресепшен, бассейн, сауна, хаммам, фитнес зал, салон красоты, кинотеатр, торговые павильоны, подземная и открытая  парковки и многое другое. Район окружён водами Босфора и бухты Золотой Рог. Исторический центр. 10-15 мин. от мечети София Фатих, Египетский базар, Девичья башня и других всемирно известных достопримечательностей Стамбула."
   },    
   {
     "id": "2",
-    "sku": "asdf112",
+    "sku": "asdf2",
     "name": "Квартира",
-    "price": 198500,
-    "location": "Стамбул, район Бейликдюзю",
-    "rooms": "1+1",
-    "square": "100",
+    "price": 941000,
+    "location": "Стамбул, район Бейоглу",
+    "rooms": "2+1",
+    "square": "145",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": false,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Сите,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "2+1",
+            "stock": 2
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/221_1_e9cb2p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/1121_1_bjn4it.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/55_1_y4vazj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432229/Apartments_new_2023/apartment_1_BENESTA/3_1_vqmvk9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/7_1_knl8n9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/6_1_pptbpm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/11_1_tqmxru.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432222/Apartments_new_2023/apartment_1_BENESTA/1.5_1_m7o8ia.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/15_1_x3lobs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/1.2_1_fcqg6i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432235/Apartments_new_2023/apartment_1_BENESTA/10_1_tbtnh4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/2_1_vhuafh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/8_1_mxiutt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432220/Apartments_new_2023/apartment_1_BENESTA/1.1_1_besvtj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432230/Apartments_new_2023/apartment_1_BENESTA/3_1_1_wx0pug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/1_1_1_u5qwhw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/2_1_1_x5bwfb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/map_benesta_1_vz2rqi.webp"   
+    ],
+    "shortDescription": "Квартира 2+1,  площадь: 145 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu)",
+    "fullDescription": "Комфортная квартира в элитном комплексе BENESTA с системой умный дом. Всё включено: охрана 7/24, ресепшен, бассейн, сауна, хаммам, фитнес зал, салон красоты, кинотеатр, торговые павильоны, подземная и открытая  парковки и многое другое. Район окружён водами Босфора и бухты Золотой Рог. Исторический центр. 10-15 мин. от мечети София Фатих, Египетский базар, Девичья башня и других всемирно известных достопримечательностей Стамбула."
+  },    
+  {
+    "id": "3",
+    "sku": "asdf3",
+    "name": "Квартира",
+    "price": 1042000,
+    "location": "Стамбул, район Бейоглу",
+    "rooms": "3+1",
+    "square": "152",
     "discount": 0,
     "offerEnd": "October 12, 2023 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 5,
     "category": ["Квартиры"],
-    "tag": ["Cите,", "C видом на море"],
+    "tag": ["Сите,", "Элитная недвижимость"],
+    "citizenship": "Доступно гражданство Турции",
     "variation": [
       {
         "color": "white",
-        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-        "size": [
-          {
-            "name": "1+1",
-            "stock": 3
-          },
-          {
-            "name": "2+1",
-            "stock": 2
-          },
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
           {
             "name": "3+1",
             "stock": 5
@@ -89,27 +130,1068 @@
       } 
     ],
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/6_1_tyfkr1.webp"
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/55_1_y4vazj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/1121_1_bjn4it.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/221_1_e9cb2p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432229/Apartments_new_2023/apartment_1_BENESTA/3_1_vqmvk9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/7_1_knl8n9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/6_1_pptbpm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/11_1_tqmxru.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432222/Apartments_new_2023/apartment_1_BENESTA/1.5_1_m7o8ia.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/15_1_x3lobs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432226/Apartments_new_2023/apartment_1_BENESTA/1.2_1_fcqg6i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432235/Apartments_new_2023/apartment_1_BENESTA/10_1_tbtnh4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432236/Apartments_new_2023/apartment_1_BENESTA/2_1_vhuafh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432233/Apartments_new_2023/apartment_1_BENESTA/8_1_mxiutt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432220/Apartments_new_2023/apartment_1_BENESTA/1.1_1_besvtj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432230/Apartments_new_2023/apartment_1_BENESTA/3_1_1_wx0pug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432228/Apartments_new_2023/apartment_1_BENESTA/1_1_1_u5qwhw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432227/Apartments_new_2023/apartment_1_BENESTA/2_1_1_x5bwfb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432232/Apartments_new_2023/apartment_1_BENESTA/map_benesta_1_vz2rqi.webp"   
     ],
-    "shortDescription": "Квартира 1+1,  площадь: 75 м², район: Стамбул Бейликдюзю",
-    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
+    "shortDescription": "Квартира 3+1,  площадь: 152 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu)",
+    "fullDescription": "Комфортная квартира в элитном комплексе BENESTA с системой умный дом. Всё включено: охрана 7/24, ресепшен, бассейн, сауна, хаммам, фитнес зал, салон красоты, кинотеатр, торговые павильоны, подземная и открытая  парковки и многое другое. Район окружён водами Босфора и бухты Золотой Рог. Исторический центр. 10-15 мин. от мечети София Фатих, Египетский базар, Девичья башня и других всемирно известных достопримечательностей Стамбула."
+  },    
+  {
+    "id": "4",
+    "sku": "asdf4",
+    "name": "Квартира",
+    "price": 125000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "1+1",
+    "square": "75",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 3
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 75 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
   },  
   {
-    "id": "3",
-    "sku": "asdf113",
+    "id": "5",
+    "sku": "asdf5",
+    "name": "Квартира",
+    "price": 170000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "2+1",
+    "square": "102",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "2+1",
+            "stock": 2
+          }         
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 2+1,  площадь: 170 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
+  },  
+  {
+    "id": "6",
+    "sku": "asdf6",
+    "name": "Квартира",
+    "price": 232000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "2+1",
+    "square": "140",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "2+1",
+            "stock": 2
+          }         
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 2+1,  площадь: 140 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
+  },  
+  {
+    "id": "7",
+    "sku": "asdf7",
+    "name": "Квартира",
+    "price": 268000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "3+1",
+    "square": "160",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "3+1",
+            "stock": 5
+          }          
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 160 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
+  },  
+  {
+    "id": "8",
+    "sku": "asdf8",
+    "name": "Квартира",
+    "price": 317000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "4+1",
+    "square": "190",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 4+1,  площадь: 190 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
+  },  
+  {
+    "id": "9",
+    "sku": "asdf7",
+    "name": "Квартира",
+    "price": 385000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "4+1",
+    "square": "230",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [         
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432305/Apartments_new_2023/apartment_2_ODUL/4_db4jnq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432301/Apartments_new_2023/apartment_2_ODUL/3_rnxqff.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432313/Apartments_new_2023/apartment_2_ODUL/5_anzsh5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432315/Apartments_new_2023/apartment_2_ODUL/9_hiurj1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432308/Apartments_new_2023/apartment_2_ODUL/2_iqjjzo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/6_qora85.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432295/Apartments_new_2023/apartment_2_ODUL/1_raybpj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432298/Apartments_new_2023/apartment_2_ODUL/10.19.01_oaadnm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432299/Apartments_new_2023/apartment_2_ODUL/3.1_jlcfxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432306/Apartments_new_2023/apartment_2_ODUL/odul_istanbul_location_tpbtfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432297/Apartments_new_2023/apartment_2_ODUL/ODUL_map_cybgkq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518622/Apartments_new_2023/apartment_2_ODUL/Price_lixsfr.webp"
+    ],
+    "shortDescription": "Квартира 4+1,  площадь: 230 м², недвижимость люкс класса, Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки. "
+  },  
+  {
+    "id": "10",
+    "sku": "asdf10.",
+    "name": "Квартира",
+    "price": 786000,
+    "location": "Стамбул, район Бейкоз",
+    "rooms": "3+1",
+    "square": "214",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432931/Apartments_new_2023/apartment_3_ACARBLU/13-EX-IMG-AB_tjy6yz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432911/Apartments_new_2023/apartment_3_ACARBLU/1-EX-IMG-AB_a8ke3t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432929/Apartments_new_2023/apartment_3_ACARBLU/9-EX-IMG-AB_teg6gr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432934/Apartments_new_2023/apartment_3_ACARBLU/19-EX-IMG-AB_nzfqvx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432923/Apartments_new_2023/apartment_3_ACARBLU/13-IN-IMG-AB_z1pxzh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432920/Apartments_new_2023/apartment_3_ACARBLU/11-IN-IMG-AB_eabm17.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432919/Apartments_new_2023/apartment_3_ACARBLU/6-IN-IMG-AB_wlw6jk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432918/Apartments_new_2023/apartment_3_ACARBLU/8-IN-IMG-AB_eaklle.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432915/Apartments_new_2023/apartment_3_ACARBLU/1-IN-IMG-AB_xivryd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432913/Apartments_new_2023/apartment_3_ACARBLU/2-IN-IMG-AB_l0yksq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432912/Apartments_new_2023/apartment_3_ACARBLU/7-IN-IMG-AB_fogbnf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432925/Apartments_new_2023/apartment_3_ACARBLU/14-EX-IMG-AB_zotyti.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432930/Apartments_new_2023/apartment_3_ACARBLU/17-IN-IMG-AB_aluaqn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432915/Apartments_new_2023/apartment_3_ACARBLU/12-IN-IMG-AB_jx1vf7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432914/Apartments_new_2023/apartment_3_ACARBLU/10-EX-IMG-AB_zpucx8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432928/Apartments_new_2023/apartment_3_ACARBLU/15-EX-IMG-AB_vnrjip.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432930/Apartments_new_2023/apartment_3_ACARBLU/16-EX-IMG-AB_hd346a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518256/Apartments_new_2023/apartment_3_ACARBLU/TL-PRICELIST-AB_haophi.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 214 м², Стамбул, азиатская часть, район Бейкоз (Beykoz)",
+    "fullDescription": "Жилой комплекс ACARBLU - это элитная недвижимость в азиатской части сердца Стамбула, кругом нетронутая зелень, виды с балкона на Босфор и Черное море, к югу Мраморное море! Соседи общеизвестная элита Турции!" 
+  },
+  {
+    "id": "11",
+    "sku": "asdf11",
+    "name": "Квартира",
+    "price": 1090000,
+    "location": "Стамбул, район Бейкоз",
+    "rooms": "3+1",
+    "square": "272",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432911/Apartments_new_2023/apartment_3_ACARBLU/1-EX-IMG-AB_a8ke3t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432931/Apartments_new_2023/apartment_3_ACARBLU/13-EX-IMG-AB_tjy6yz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432929/Apartments_new_2023/apartment_3_ACARBLU/9-EX-IMG-AB_teg6gr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432934/Apartments_new_2023/apartment_3_ACARBLU/19-EX-IMG-AB_nzfqvx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432923/Apartments_new_2023/apartment_3_ACARBLU/13-IN-IMG-AB_z1pxzh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432920/Apartments_new_2023/apartment_3_ACARBLU/11-IN-IMG-AB_eabm17.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432919/Apartments_new_2023/apartment_3_ACARBLU/6-IN-IMG-AB_wlw6jk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432918/Apartments_new_2023/apartment_3_ACARBLU/8-IN-IMG-AB_eaklle.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432915/Apartments_new_2023/apartment_3_ACARBLU/1-IN-IMG-AB_xivryd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432913/Apartments_new_2023/apartment_3_ACARBLU/2-IN-IMG-AB_l0yksq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432912/Apartments_new_2023/apartment_3_ACARBLU/7-IN-IMG-AB_fogbnf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432925/Apartments_new_2023/apartment_3_ACARBLU/14-EX-IMG-AB_zotyti.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432930/Apartments_new_2023/apartment_3_ACARBLU/17-IN-IMG-AB_aluaqn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432915/Apartments_new_2023/apartment_3_ACARBLU/12-IN-IMG-AB_jx1vf7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432914/Apartments_new_2023/apartment_3_ACARBLU/10-EX-IMG-AB_zpucx8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432928/Apartments_new_2023/apartment_3_ACARBLU/15-EX-IMG-AB_vnrjip.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696432930/Apartments_new_2023/apartment_3_ACARBLU/16-EX-IMG-AB_hd346a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518256/Apartments_new_2023/apartment_3_ACARBLU/TL-PRICELIST-AB_haophi.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 272 м², Стамбул, азиатская часть, район Бейкоз (Beykoz)",
+    "fullDescription": "Жилой комплекс ACARBLU - это элитная недвижимость в азиатской части сердца Стамбула, кругом нетронутая зелень, виды с балкона на Босфор и Черное море, к югу Мраморное море! Соседи общеизвестная элита Турции!" 
+  },
+  {
+    "id": "13",
+    "sku": "asdf13",
+    "name": "Квартира",
+    "price": 123000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "1+1",
+    "square": "90",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 90 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+  {
+    "id": "14",
+    "sku": "asdf14",
+    "name": "Квартира",
+    "price": 149000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "2+1",
+    "square": "97",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 2+1,  площадь: 97 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+  {
+    "id": "15",
+    "sku": "asdf15",
+    "name": "Квартира",
+    "price": 2100000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "2+1",
+    "square": "145",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 2+1,  площадь: 145 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+  {
+    "id": "16",
+    "sku": "asdf16",
+    "name": "Квартира",
+    "price": 213000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "3+1",
+    "square": "154",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 154 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+  {
+    "id": "17",
+    "sku": "asdf17",
+    "name": "Квартира",
+    "price": 260000,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "3+1",
+    "square": "178",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518068/Apartments_new_2023/apartment_4_ALYA/5-EX-IMG-A4_hvukaz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518070/Apartments_new_2023/apartment_4_ALYA/9-EX-IMG-A4_nhy6u4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-EX-IMG-A4_d4fesb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/8-EX-IMG-A4_hxe5mm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-EX-IMG-A4_ew6qwk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/5-IN-IMG-A4_tdp5li.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518065/Apartments_new_2023/apartment_4_ALYA/1-IN-IMG-A4_mgx1vy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518069/Apartments_new_2023/apartment_4_ALYA/6-IN-IMG-A4_dkpeb6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518067/Apartments_new_2023/apartment_4_ALYA/7-IN-IMG-A4_xmljj8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/4-IN-IMG-A4_wx7ric.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518066/Apartments_new_2023/apartment_4_ALYA/3-IN-IMG-A4_jiyccc.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 178 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Комплекс зданий Alya Grandis - это недвижимость люкс класса. Идеальное сочетание роскоши и комфорта. Спа, хаммам, фитнес, открытые и крытые бассейны, детские площадки, торговый и деловой центры и многое другое." 
+  },
+  {
+    "id": "18",
+    "sku": "asdf18",
+    "name": "Квартира",
+    "price": 227257,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "1+1",
+    "square": "116",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511169/Apartments_new_2023/apartment_6_GUMUS/render_7_n6c0tt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507931/Apartments_new_2023/apartment_6_GUMUS/render-31_bg2dfc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render_5_dbviya.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507922/Apartments_new_2023/apartment_6_GUMUS/200-2_w5rwsd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507930/Apartments_new_2023/apartment_6_GUMUS/render-20_zmgjdv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507928/Apartments_new_2023/apartment_6_GUMUS/render-9_dz07ru.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507931/Apartments_new_2023/apartment_6_GUMUS/render-21_lxbkby.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render-18_ftmvdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render_3_zmhmpb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507923/Apartments_new_2023/apartment_6_GUMUS/LEV_1450_fritia.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507924/Apartments_new_2023/apartment_6_GUMUS/LEV_1475_p5b2zt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507920/Apartments_new_2023/apartment_6_GUMUS/LEV_1209_lphtzd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507923/Apartments_new_2023/apartment_6_GUMUS/LEV_1364_qgdkvz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507925/Apartments_new_2023/apartment_6_GUMUS/LEV_1482_a9wlqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507926/Apartments_new_2023/apartment_6_GUMUS/LEV_1533_iiqbwx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507921/Apartments_new_2023/apartment_6_GUMUS/LEV_1251_l1ahya.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507921/Apartments_new_2023/apartment_6_GUMUS/LEV_1233_odel4s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511448/Apartments_new_2023/apartment_6_GUMUS/LEV_1424_utgizj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507925/Apartments_new_2023/apartment_6_GUMUS/map_baf8he.webp"
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 116 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Современный новый комплекс люкс класса GUMUS PANORAMA ISTANBUL. В наличии: теннисный корт, баскетбольная площадка, спортивная и детская площадка, несколько бассейнов, спа и турецкая баня отдельно для женщин и мужчин, зона барбекю, смотровая площадка с удивительными видами на Мраморное море и озеро Кучук Шикмеге." 
+  },
+  {
+    "id": "19",
+    "sku": "asdf19",
+    "name": "Квартира",
+    "price": 315350,
+    "location": "Стамбул, район Эсеньюрт",
+    "rooms": "2+1",
+    "square": "169",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render_5_dbviya.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511169/Apartments_new_2023/apartment_6_GUMUS/render_7_n6c0tt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507931/Apartments_new_2023/apartment_6_GUMUS/render-31_bg2dfc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507922/Apartments_new_2023/apartment_6_GUMUS/200-2_w5rwsd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507930/Apartments_new_2023/apartment_6_GUMUS/render-20_zmgjdv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507928/Apartments_new_2023/apartment_6_GUMUS/render-9_dz07ru.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507931/Apartments_new_2023/apartment_6_GUMUS/render-21_lxbkby.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render-18_ftmvdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507927/Apartments_new_2023/apartment_6_GUMUS/render_3_zmhmpb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507923/Apartments_new_2023/apartment_6_GUMUS/LEV_1450_fritia.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507924/Apartments_new_2023/apartment_6_GUMUS/LEV_1475_p5b2zt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507920/Apartments_new_2023/apartment_6_GUMUS/LEV_1209_lphtzd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507923/Apartments_new_2023/apartment_6_GUMUS/LEV_1364_qgdkvz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507925/Apartments_new_2023/apartment_6_GUMUS/LEV_1482_a9wlqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507926/Apartments_new_2023/apartment_6_GUMUS/LEV_1533_iiqbwx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507921/Apartments_new_2023/apartment_6_GUMUS/LEV_1251_l1ahya.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507921/Apartments_new_2023/apartment_6_GUMUS/LEV_1233_odel4s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511448/Apartments_new_2023/apartment_6_GUMUS/LEV_1424_utgizj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696507925/Apartments_new_2023/apartment_6_GUMUS/map_baf8he.webp"
+    ],
+    "shortDescription": "Квартира 3+1,  площадь: 169 м², Стамбул, европейская часть, район Эсеньюрт (Esenyurt)",
+    "fullDescription": "Современный новый комплекс люкс класса GUMUS PANORAMA ISTANBUL. В наличии: теннисный корт, баскетбольная площадка, спортивная и детская площадка, несколько бассейнов, спа и турецкая баня отдельно для женщин и мужчин, зона барбекю, смотровая площадка с удивительными видами на Мраморное море и озеро Кучук Шикмеге." 
+  },
+  {
+    "id": "20",
+    "sku": "asdf20",
+    "name": "Квартира",
+    "price": 850000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "2+1",
+    "square": "157",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 157 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  
+  
+  {
+    "id": "31",
+    "sku": "asdf31",
+    "name": "Квартира",
+    "price": 1150000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "2+1",
+    "square": "213",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 213 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  
+  
+  {
+    "id": "32",
+    "sku": "asdf32",
+    "name": "Квартира",
+    "price": 750000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "3+1",
+    "square": "185",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 185 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  
+  
+  {
+    "id": "33",
+    "sku": "asdf33",
+    "name": "Квартира",
+    "price": 1250000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "3+1",
+    "square": "207",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 207 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  {
+    "id": "34",
+    "sku": "asdf34",
+    "name": "Квартира",
+    "price": 950000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "4+1",
+    "square": "235",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 235 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  {
+    "id": "35",
+    "sku": "asdf35",
+    "name": "Квартира",
+    "price": 1900000,
+    "location": "Стамбул, район Ускюдар",
+    "rooms": "5+1",
+    "square": "384",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "5+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O3_hndhso.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V3_gwebkf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696511046/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O10_luowew.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508771/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_O7_lyvpdw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508767/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_O11_gs8lys.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508770/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_G5_qbrzoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V7_lu0vwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508773/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Kandilli_V2_qsvjw4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/1_itgyem.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508764/Apartments_new_2023/apartment_7_KANDILI_RESERVE/4_k1i2mq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508763/Apartments_new_2023/apartment_7_KANDILI_RESERVE/3_oasg4j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508768/Apartments_new_2023/apartment_7_KANDILI_RESERVE/10_vxyg31.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508765/Apartments_new_2023/apartment_7_KANDILI_RESERVE/6_atbmep.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Real00009_kqgndd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508775/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00033_iydu8b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510897/Apartments_new_2023/apartment_7_KANDILI_RESERVE/7_e4i5kg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696510896/Apartments_new_2023/apartment_7_KANDILI_RESERVE/15_w6ckkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508777/Apartments_new_2023/apartment_7_KANDILI_RESERVE/Z_Real00027_ufv6uw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508772/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_S2_yirynu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508774/Apartments_new_2023/apartment_7_KANDILI_RESERVE/KANDILLI_V5_gcd2ks.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696508776/Apartments_new_2023/apartment_7_KANDILI_RESERVE/price_new_fvuquk.jpg"
+    ],
+    "shortDescription": "Квартира 5+1, площадь: 384 м², Стамбул, азиатская часть, район Ускюдар (Uskudar)",
+    "fullDescription": "Элитный комплекс Nef Reserve Kandilli на побережье Босфора азиатской части Стамбула. Oткрытые и крытые бассейны, спа, сауна, хаммам, спортзал, мини баскетбол, мини-футбол, зал торжеств, игровая комната, музыкальная комната, дом для гостей и многое другое. Есть всё, для счастливой и комфортной жизни, включая яхту, для прогулок по Босфору, Чёрному и Мраморному морям." 
+  },
+  
+  
+
+
+
+
+  {
+    "id": "196",
+    "sku": "asdf196",
     "name": "Вилла",
     "price": 198500,
     "location": "Стамбул, район Бейликдюзю",
@@ -122,10 +1204,11 @@
     "saleCount": 5,
     "category": ["Виллы"],
     "tag": ["Cите,", "C видом на море"],
+    "citizenship": " ",
     "variation": [
       {
         "color": "white",
-        "image": "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp", 
         "size": [
           {
             "name": "1+1",
@@ -143,22 +1226,150 @@
       } 
     ],
     "image": [
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368396/Apartments_new_2023/1_benesta/1121_1_aqi6lm.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/8_1_yuconc.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/221_1_ojzwel.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368401/Apartments_new_2023/1_benesta/3_1_1_guqr56.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/7_1_s3zrit.webp",
-      "https://res.cloudinary.com/khamzat/image/upload/v1695368400/Apartments_new_2023/1_benesta/6_1_tyfkr1.webp"
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
-    "shortDescription": "Квартира 1+1,  площадь: 75 м², район: Стамбул Бейликдюзю",
+    "shortDescription": "Квартира 1+1,  площадь: 75 м², Стамбул район Бейликдюзю",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
+  },
+  {
+    "id": "197",
+    "sku": "asdf197",
+    "name": "Вилла",
+    "price": 198500,
+    "location": "Стамбул, район Бейликдюзю",
+    "rooms": "1+1",
+    "square": "100",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Виллы"],
+    "tag": ["Cите,", "C видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp", 
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 3
+          },
+          {
+            "name": "2+1",
+            "stock": 2
+          },
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 75 м², Стамбул район Бейликдюзю",
+    "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
+  },
+  {
+    "id": "198",
+    "sku": "asdf198",
+    "name": "Вилла",
+    "price": 198500,
+    "location": "Стамбул, район Бейликдюзю",
+    "rooms": "1+1",
+    "square": "100",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Виллы"],
+    "tag": ["Cите,", "C видом на море"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp", 
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 3
+          },
+          {
+            "name": "2+1",
+            "stock": 2
+          },
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "shortDescription": "Квартира 1+1,  площадь: 75 м², Стамбул район Бейликдюзю",
     "fullDescription": "Новостройка ODUL люкс класса, состоит из 8 башен, в каждой 41 этаж. На площади 40 тыс.м2, 50% территории озеленение. Имеется торговый центр на 102 павильона, детский парк, баскетбольная площадка, зона барбекю, 2 бассейна, 2 спортзала, 2 сауны, 2 турецкие бани, 2 массажных центра, подземная и открытая парковки."
   }
 

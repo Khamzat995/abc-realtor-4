@@ -64,9 +64,15 @@ const ProductGridSingleTwo = ({
                 )}
                 {product.new ? <span className="purple">Новинка</span> : ""}
               </div>
+              
+
             ) : (
               ""
             )}
+            
+              <p className="product-p-citizenship">{product.citizenship}</p>
+              
+               
 
             <div className="product-action-2">
               {/* {product.affiliateLink ? (
