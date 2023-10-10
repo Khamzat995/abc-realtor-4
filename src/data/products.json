@@ -3092,6 +3092,153 @@
     "shortDescription": "Квартира 3+1, площадь: 167 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
     "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
   },
+  {
+    "id": "73",
+    "sku": "asdf73",
+    "name": "Квартира",
+    "price": 460000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "2+1",
+    "square": "92",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964048/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/1_nhgb2t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964050/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/8_ytxw3a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964049/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/3_ajbuox.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/7_uenoxe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/9_wvlci3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/12_yakfcc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/13_i9clbm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/16_akqni7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/15_zapwuh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/17_jy9ffr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/22_ien0zq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/23_hmsehe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/20_vibh9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964056/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/locaton_crrizr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/Price_wbagef.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964055/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/map_ejjbx3.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 92 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Уникальный проект Istanbul 216. В жилой комплекс входит торговый центр, фитнес, пилатес и йога, спа, хаммам мужской и женский по отдельности, открытый и крытый бассейны, массаж и многое другое. До метро 1 минута." 
+  },
+  {
+    "id": "74",
+    "sku": "asdf74",
+    "name": "Квартира",
+    "price": 750000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "3+1",
+    "square": "160",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964049/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/3_ajbuox.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/7_uenoxe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964048/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/1_nhgb2t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964050/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/8_ytxw3a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/9_wvlci3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/12_yakfcc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/13_i9clbm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/16_akqni7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/15_zapwuh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/17_jy9ffr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/22_ien0zq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/23_hmsehe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/20_vibh9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964056/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/locaton_crrizr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/Price_wbagef.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964055/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/map_ejjbx3.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 160 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Уникальный проект Istanbul 216. В жилой комплекс входит торговый центр, фитнес, пилатес и йога, спа, хаммам мужской и женский по отдельности, открытый и крытый бассейны, массаж и многое другое. До метро 1 минута." 
+  },
+  {
+    "id": "75",
+    "sku": "asdf75",
+    "name": "Квартира",
+    "price": 790000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "4+1",
+    "square": "226",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/7_uenoxe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964048/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/1_nhgb2t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964049/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/3_ajbuox.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964050/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/8_ytxw3a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/9_wvlci3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/12_yakfcc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964051/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/13_i9clbm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/16_akqni7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964052/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/15_zapwuh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/17_jy9ffr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964053/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/22_ien0zq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/23_hmsehe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/20_vibh9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964056/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/locaton_crrizr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964054/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/Price_wbagef.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696964055/Apartments_new_2023/apartment_15_MATAR_ISTANBUL/map_ejjbx3.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 226 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Уникальный проект Istanbul 216. В жилой комплекс входит торговый центр, фитнес, пилатес и йога, спа, хаммам мужской и женский по отдельности, открытый и крытый бассейны, массаж и многое другое. До метро 1 минута." 
+  },
   
   
 
