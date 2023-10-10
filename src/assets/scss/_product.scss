@@ -625,10 +625,11 @@ text-shadow: 0.5px 0.5px black;
   .pro-details-size-color {
     display: none;
     @media #{$xs-layout} {
-      display: block;
+      display: none;
     }
     @media #{$sm-layout} {
       display: flex;
+      display: none;
     }
     .pro-details-color-wrap {
       display: none;
@@ -875,6 +876,7 @@ text-shadow: 0.5px 0.5px black;
             width: 100%;
             margin-bottom: 0;
             padding: 8px;
+            
           }
         }
       }
@@ -1100,6 +1102,7 @@ text-shadow: 0.5px 0.5px black;
       justify-content: center;
     }
     .pro-details-size-color {
+      display: none;
       justify-content: center;
 
       text-align: left;
@@ -1765,7 +1768,13 @@ font-size: larger;
   top: 90%;
   left: 5%;
   color: #ffc900;
-  
+  text-shadow: 0.5px 0.5px black;
+}
+.product-pk-citizenship {
+  position: absolute;
+  top: 90%;
+  right: 5%;
+  color: #ffc900;
   text-shadow: 0.5px 0.5px black;
 }
 /* product hm3 */

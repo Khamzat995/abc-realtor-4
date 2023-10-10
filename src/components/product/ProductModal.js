@@ -165,6 +165,9 @@ function ProductModal(props) {
                 <div className="pro-details-list">
                   <p>{product.shortDescription}</p>
                 </div>
+                <div className="pro-details-list">
+                  <p>{product.fullDescription}</p>
+                </div>
 
                 {product.variation ? (
                   <div className="pro-details-size-color">

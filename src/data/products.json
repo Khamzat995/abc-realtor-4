@@ -1534,6 +1534,1565 @@
     "fullDescription": "Замечательный жилой комплекс люкс класса Kandilli Nakkastepe, расположен в центре Uskudar одиного из самых престижных районов Стамбула. Идеальное сочетание роскоши и комфорта." 
   },
   
+  {
+    "id": "43",
+    "sku": "asdf43",
+    "name": "Квартира",
+    "price": 1615000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "2+1",
+    "square": "155",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 155 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "44",
+    "sku": "asdf44",
+    "name": "Квартира",
+    "price": 3200000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "2+1",
+    "square": "302",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 302 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "45",
+    "sku": "asdf45",
+    "name": "Квартира",
+    "price": 2690000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "3+1",
+    "square": "292",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 292 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "46",
+    "sku": "asdf46",
+    "name": "Квартира",
+    "price": 3205000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "3+1",
+    "square": "349",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 349 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "47",
+    "sku": "asdf44",
+    "name": "Квартира",
+    "price": 3820000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "4+1",
+    "square": "386",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 396 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "48",
+    "sku": "asdf48",
+    "name": "Квартира",
+    "price": 5815000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "4+1",
+    "square": "653",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 653 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "49",
+    "sku": "asdf49",
+    "name": "Квартира",
+    "price": 5380000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "5+1",
+    "square": "569",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "5+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 5+1, площадь: 569 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  
+  {
+    "id": "50",
+    "sku": "asdf50",
+    "name": "Квартира",
+    "price": 6682000,
+    "location": "Стамбул, район Нишанташи",
+    "rooms": "6+1",
+    "square": "644",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "6+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/17-EX-IMG-NK_mufdja.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520255/Apartments_new_2023/apartment_10_NISANTASI/22-EX-IMG-NK_zsp4yd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/16-EX-IMG-NK_kkwpac.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520241/Apartments_new_2023/apartment_10_NISANTASI/1-IN-IMG-NK._ktweb4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520246/Apartments_new_2023/apartment_10_NISANTASI/6-EX-IMG-NK_maydpy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520265/Apartments_new_2023/apartment_10_NISANTASI/30-EX-IMG-NK_v4rmro.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520260/Apartments_new_2023/apartment_10_NISANTASI/26-EX-IMG-NK_islgy9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520256/Apartments_new_2023/apartment_10_NISANTASI/12-EX-IMG-NK_j22sv5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520267/Apartments_new_2023/apartment_10_NISANTASI/42-EX-IMG-NK._ircj9m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520254/Apartments_new_2023/apartment_10_NISANTASI/21-EX-IMG-NK_ktas6s.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520249/Apartments_new_2023/apartment_10_NISANTASI/14-EX-IMG-NK_yt5kk5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/9-IN-IMG-NK_ctuvbq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520247/Apartments_new_2023/apartment_10_NISANTASI/8-IN-IMG-NK._bkrjio.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/7-IN-IMG-NK._styit7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520245/Apartments_new_2023/apartment_10_NISANTASI/6-IN-IMG-NK._ipceat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520244/Apartments_new_2023/apartment_10_NISANTASI/5-IN-IMG-NK._wtm1tw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520243/Apartments_new_2023/apartment_10_NISANTASI/4-IN-IMG-NK._no2wyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/2-IN-IMG-NK_wsxvmj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520242/Apartments_new_2023/apartment_10_NISANTASI/3-IN-IMG-NK._bas0qt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696520258/Apartments_new_2023/apartment_10_NISANTASI/map_prpgbf.webp"
+    ],
+    "shortDescription": "Квартира 6+1, площадь: 644 м², Стамбул, европейская часть, район Нишанташи (Nişantaşi)",
+    "fullDescription": "Комплекс зданий Nişantaşi Koru - это недвижимось люкс класса. Идеальное сочетание роскоши и комфорта. Спа и турецкая баня, сауна, крытый бассейн, центр пилатеса и фитнеса, зал мюзикл, кинотеатр, торговый центр и многое другоe." 
+  },
+  {
+    "id": "51",
+    "sku": "asdf51",
+    "name": "Квартира",
+    "price": 655000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "1+1",
+    "square": "98",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 98 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "52",
+    "sku": "asdf52",
+    "name": "Квартира",
+    "price": 1032000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "1+1",
+    "square": "178",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 172 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "53",
+    "sku": "asdf53",
+    "name": "Квартира",
+    "price": 896000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "2+1",
+    "square": "144",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 144 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  
+  {
+    "id": "54",
+    "sku": "asdf54",
+    "name": "Квартира",
+    "price": 1465000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "2+1",
+    "square": "247",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 247 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "55",
+    "sku": "asdf55",
+    "name": "Квартира",
+    "price": 1204000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "3+1",
+    "square": "191",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 191 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "56",
+    "sku": "asdf56",
+    "name": "Квартира",
+    "price": 2095000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "3+1",
+    "square": "311",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 311 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "57",
+    "sku": "asdf57",
+    "name": "Квартира",
+    "price": 2705000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "4+1",
+    "square": "311",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 311 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "58",
+    "sku": "asdf58",
+    "name": "Квартира",
+    "price": 3016000,
+    "location": "Стамбул, район Шишли",
+    "rooms": "4+1",
+    "square": "369",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664034/Apartments_new_2023/apartment_11_SKYLAND/68-EX-IMG-SKY_uajmoc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/4-EX-IMG-SKY_dmal9v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/15-EX-IMG-SKY_kvszis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/40-EX-IMG-SKY_hrynuu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664030/Apartments_new_2023/apartment_11_SKYLAND/34-EX-IMG-SKY_f7lav7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664024/Apartments_new_2023/apartment_11_SKYLAND/12-IN-IMG-SKY_jsrdqm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664026/Apartments_new_2023/apartment_11_SKYLAND/14-IN-IMG-SKY_aevi5k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664027/Apartments_new_2023/apartment_11_SKYLAND/13-IN-IMG-SKY_tl4fuj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/15-IN-IMG-SKY_wftk5b.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664022/Apartments_new_2023/apartment_11_SKYLAND/1-IN-IMG-SKY_scma5g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664023/Apartments_new_2023/apartment_11_SKYLAND/7-IN-IMG-SKY_ndgncs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664029/Apartments_new_2023/apartment_11_SKYLAND/18-IN-IMG-SKY_akqz1p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664028/Apartments_new_2023/apartment_11_SKYLAND/17-IN-IMG-SKY_gjiok5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664025/Apartments_new_2023/apartment_11_SKYLAND/9-IN-IMG-SKY_lqwqig.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/48-EX-IMG-SKY_w5zj34.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664031/Apartments_new_2023/apartment_11_SKYLAND/45-EX-IMG-SKY_qfngof.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664032/Apartments_new_2023/apartment_11_SKYLAND/50-EX-IMG-SKY_vkqgzb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664036/Apartments_new_2023/apartment_11_SKYLAND/47-EX-IMG-SKY_rdjptz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/map_pyfo6k.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696664035/Apartments_new_2023/apartment_11_SKYLAND/USD-PRICELIST-SKY_uh6hen.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 369 м², Стамбул, европейская часть, район Шишли (Şişli)",
+    "fullDescription": "Skyland Istanbul — самое высокое здание в Стамбуле и восьмое по высоте здание в Европе. Расположено в деловом центре города, состоит из трех башен и площади, соединяющей их. Пятизвездочный статус. Недвижимость класса Ultra Lux, умный дом. Идеальное сочетание роскоши и комфорта." 
+  },
+  {
+    "id": "59",
+    "sku": "asdf59",
+    "name": "Квартира",
+    "price": 480000,
+    "location": "Стамбул, район Картал",
+    "rooms": "2+1",
+    "square": "166",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677359/Apartments_new_2023/apartment_12_TERAS_KULE/vid2_yee0cr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/55678768_g4mgrl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677353/Apartments_new_2023/apartment_12_TERAS_KULE/465456456_auqmsw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/789789_eyysjx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677350/Apartments_new_2023/apartment_12_TERAS_KULE/43545_hrnm0g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677351/Apartments_new_2023/apartment_12_TERAS_KULE/890909_aff78m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/2b329fB_woarmv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/bec95f1_afkxtu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677356/Apartments_new_2023/apartment_12_TERAS_KULE/Copy_of_ynxj8y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/fc86e7baB_mhxvat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677348/Apartments_new_2023/apartment_12_TERAS_KULE/2c910acb45a6-6-B_wztrxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/8b14883_i6xfvr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/teras_kule_map_cjnspr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/price_z8i8j4.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 166 м², Стамбул, азиатская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный комплекс Teras Kule, расположен в престижном районе Картал. Круглосуточная охрана, бассейн, баскетболная площадка и теннисный корт, тренажёрный зал. В пешей доступности от метро. С прекрасным видом на Мраморное море и город." 
+  },
+  {
+    "id": "60",
+    "sku": "asdf60",
+    "name": "Квартира",
+    "price": 707000,
+    "location": "Стамбул, район Картал",
+    "rooms": "2+1",
+    "square": "195",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677353/Apartments_new_2023/apartment_12_TERAS_KULE/465456456_auqmsw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/789789_eyysjx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677359/Apartments_new_2023/apartment_12_TERAS_KULE/vid2_yee0cr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/55678768_g4mgrl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677350/Apartments_new_2023/apartment_12_TERAS_KULE/43545_hrnm0g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677351/Apartments_new_2023/apartment_12_TERAS_KULE/890909_aff78m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/2b329fB_woarmv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/bec95f1_afkxtu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677356/Apartments_new_2023/apartment_12_TERAS_KULE/Copy_of_ynxj8y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/fc86e7baB_mhxvat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677348/Apartments_new_2023/apartment_12_TERAS_KULE/2c910acb45a6-6-B_wztrxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/8b14883_i6xfvr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/teras_kule_map_cjnspr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/price_z8i8j4.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 195 м², Стамбул, азиатская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный комплекс Teras Kule, расположен в престижном районе Картал. Круглосуточная охрана, бассейн, баскетболная площадка и теннисный корт, тренажёрный зал. В пешей доступности от метро. С прекрасным видом на Мраморное море и город." 
+  },
+  {
+    "id": "61",
+    "sku": "asdf61",
+    "name": "Квартира",
+    "price": 837000,
+    "location": "Стамбул, район Картал",
+    "rooms": "3+1",
+    "square": "279",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/789789_eyysjx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677359/Apartments_new_2023/apartment_12_TERAS_KULE/vid2_yee0cr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677353/Apartments_new_2023/apartment_12_TERAS_KULE/465456456_auqmsw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/55678768_g4mgrl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677350/Apartments_new_2023/apartment_12_TERAS_KULE/43545_hrnm0g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677351/Apartments_new_2023/apartment_12_TERAS_KULE/890909_aff78m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/2b329fB_woarmv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/bec95f1_afkxtu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677356/Apartments_new_2023/apartment_12_TERAS_KULE/Copy_of_ynxj8y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/fc86e7baB_mhxvat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677348/Apartments_new_2023/apartment_12_TERAS_KULE/2c910acb45a6-6-B_wztrxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/8b14883_i6xfvr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/teras_kule_map_cjnspr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/price_z8i8j4.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 279 м², Стамбул, азиатская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный комплекс Teras Kule, расположен в престижном районе Картал. Круглосуточная охрана, бассейн, баскетболная площадка и теннисный корт, тренажёрный зал. В пешей доступности от метро. С прекрасным видом на Мраморное море и город." 
+  },
+  
+  {
+    "id": "62",
+    "sku": "asdf62",
+    "name": "Квартира",
+    "price": 1061000,
+    "location": "Стамбул, район Картал",
+    "rooms": "3+1",
+    "square": "281",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677353/Apartments_new_2023/apartment_12_TERAS_KULE/465456456_auqmsw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/55678768_g4mgrl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677352/Apartments_new_2023/apartment_12_TERAS_KULE/789789_eyysjx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677359/Apartments_new_2023/apartment_12_TERAS_KULE/vid2_yee0cr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677350/Apartments_new_2023/apartment_12_TERAS_KULE/43545_hrnm0g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677351/Apartments_new_2023/apartment_12_TERAS_KULE/890909_aff78m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/2b329fB_woarmv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/bec95f1_afkxtu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677356/Apartments_new_2023/apartment_12_TERAS_KULE/Copy_of_ynxj8y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677355/Apartments_new_2023/apartment_12_TERAS_KULE/fc86e7baB_mhxvat.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677348/Apartments_new_2023/apartment_12_TERAS_KULE/2c910acb45a6-6-B_wztrxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677349/Apartments_new_2023/apartment_12_TERAS_KULE/8b14883_i6xfvr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/teras_kule_map_cjnspr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696677357/Apartments_new_2023/apartment_12_TERAS_KULE/price_z8i8j4.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 281 м², Стамбул, азиатская часть, район Картал (Kartal)",
+    "fullDescription": "Элитный комплекс Teras Kule, расположен в престижном районе Картал. Круглосуточная охрана, бассейн, баскетболная площадка и теннисный корт, тренажёрный зал. В пешей доступности от метро. С прекрасным видом на Мраморное море и город." 
+  },
+  
+  {
+    "id": "63",
+    "sku": "asdf63",
+    "name": "Квартира",
+    "price": 488000,
+    "location": "Стамбул, район Умрание",
+    "rooms": "2+1",
+    "square": "128",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943088/Apartments_new_2023/apartment_13_YAMANEVLER/33-EX-IMG-YE_ajpum2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943082/Apartments_new_2023/apartment_13_YAMANEVLER/9-EX-IMG-YE_wtb12r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/1-EX-IMG-YE_kdfzde.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943087/Apartments_new_2023/apartment_13_YAMANEVLER/27-EX-IMG-YE_rapgob.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943092/Apartments_new_2023/apartment_13_YAMANEVLER/53-EX-IMG-YE_zmqw2j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943094/Apartments_new_2023/apartment_13_YAMANEVLER/59-EX-IMG-YE_y5tjtk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/42-EX-IMG-YE_qpvrbl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943089/Apartments_new_2023/apartment_13_YAMANEVLER/29-EX-IMG-YE_bngay9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943093/Apartments_new_2023/apartment_13_YAMANEVLER/56-EX-IMG-YE_sx5rhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943079/Apartments_new_2023/apartment_13_YAMANEVLER/4-EX-IMG-YE_brtbiw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943080/Apartments_new_2023/apartment_13_YAMANEVLER/4-IN-IMG-YE_kqdjll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943086/Apartments_new_2023/apartment_13_YAMANEVLER/17-IN-IMG-YE_xhqskl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/10-IN-IMG-YE_zsc4fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943085/Apartments_new_2023/apartment_13_YAMANEVLER/15-IN-IMG-YE_ckneah.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943084/Apartments_new_2023/apartment_13_YAMANEVLER/11-IN-IMG-YE_niue7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/2-IN-IMG-YE_ootbug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/5-IN-IMG-YE_yxi3ln.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/3-IN-IMG-YE_izyfnp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/Price_cwddkp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943098/Apartments_new_2023/apartment_13_YAMANEVLER/map_dpunlb.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 128 м², Стамбул, азиатская часть, район Умрание (Umraniye)",
+    "fullDescription": "Элитный жилой комплекс Yamanevler Avrupa Konutlari. Cамый продаваемый проект в азиатской части Стамбула. Идеально подходит для семей, которые ведут здоровый и активный образ жизни. Открытые игровые и спортивные площадки, в том числе баскетбольные и футбольные, беговые и велосипедные дорожки, крытый и открытый бассейны, тренажерный зал, сауна и турецкая баня и многое другое." 
+  },
+  {
+    "id": "64",
+    "sku": "asdf64",
+    "name": "Квартира",
+    "price": 535000,
+    "location": "Стамбул, район Умрание",
+    "rooms": "2+1",
+    "square": "182",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/1-EX-IMG-YE_kdfzde.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943087/Apartments_new_2023/apartment_13_YAMANEVLER/27-EX-IMG-YE_rapgob.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943088/Apartments_new_2023/apartment_13_YAMANEVLER/33-EX-IMG-YE_ajpum2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943082/Apartments_new_2023/apartment_13_YAMANEVLER/9-EX-IMG-YE_wtb12r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943092/Apartments_new_2023/apartment_13_YAMANEVLER/53-EX-IMG-YE_zmqw2j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943094/Apartments_new_2023/apartment_13_YAMANEVLER/59-EX-IMG-YE_y5tjtk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/42-EX-IMG-YE_qpvrbl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943089/Apartments_new_2023/apartment_13_YAMANEVLER/29-EX-IMG-YE_bngay9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943093/Apartments_new_2023/apartment_13_YAMANEVLER/56-EX-IMG-YE_sx5rhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943079/Apartments_new_2023/apartment_13_YAMANEVLER/4-EX-IMG-YE_brtbiw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943080/Apartments_new_2023/apartment_13_YAMANEVLER/4-IN-IMG-YE_kqdjll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943086/Apartments_new_2023/apartment_13_YAMANEVLER/17-IN-IMG-YE_xhqskl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/10-IN-IMG-YE_zsc4fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943085/Apartments_new_2023/apartment_13_YAMANEVLER/15-IN-IMG-YE_ckneah.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943084/Apartments_new_2023/apartment_13_YAMANEVLER/11-IN-IMG-YE_niue7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/2-IN-IMG-YE_ootbug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/5-IN-IMG-YE_yxi3ln.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/3-IN-IMG-YE_izyfnp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/Price_cwddkp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943098/Apartments_new_2023/apartment_13_YAMANEVLER/map_dpunlb.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 182 м², Стамбул, азиатская часть, район Умрание (Umraniye)",
+    "fullDescription": "Элитный жилой комплекс Yamanevler Avrupa Konutlari. Cамый продаваемый проект в азиатской части Стамбула. Идеально подходит для семей, которые ведут здоровый и активный образ жизни. Открытые игровые и спортивные площадки, в том числе баскетбольные и футбольные, беговые и велосипедные дорожки, крытый и открытый бассейны, тренажерный зал, сауна и турецкая баня и многое другое." 
+  },
+  {
+    "id": "65",
+    "sku": "asdf65",
+    "name": "Квартира",
+    "price": 612000,
+    "location": "Стамбул, район Умрание",
+    "rooms": "3+1",
+    "square": "152",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943082/Apartments_new_2023/apartment_13_YAMANEVLER/9-EX-IMG-YE_wtb12r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/1-EX-IMG-YE_kdfzde.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943087/Apartments_new_2023/apartment_13_YAMANEVLER/27-EX-IMG-YE_rapgob.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943088/Apartments_new_2023/apartment_13_YAMANEVLER/33-EX-IMG-YE_ajpum2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943092/Apartments_new_2023/apartment_13_YAMANEVLER/53-EX-IMG-YE_zmqw2j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943094/Apartments_new_2023/apartment_13_YAMANEVLER/59-EX-IMG-YE_y5tjtk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/42-EX-IMG-YE_qpvrbl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943089/Apartments_new_2023/apartment_13_YAMANEVLER/29-EX-IMG-YE_bngay9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943093/Apartments_new_2023/apartment_13_YAMANEVLER/56-EX-IMG-YE_sx5rhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943079/Apartments_new_2023/apartment_13_YAMANEVLER/4-EX-IMG-YE_brtbiw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943080/Apartments_new_2023/apartment_13_YAMANEVLER/4-IN-IMG-YE_kqdjll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943086/Apartments_new_2023/apartment_13_YAMANEVLER/17-IN-IMG-YE_xhqskl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/10-IN-IMG-YE_zsc4fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943085/Apartments_new_2023/apartment_13_YAMANEVLER/15-IN-IMG-YE_ckneah.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943084/Apartments_new_2023/apartment_13_YAMANEVLER/11-IN-IMG-YE_niue7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/2-IN-IMG-YE_ootbug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/5-IN-IMG-YE_yxi3ln.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/3-IN-IMG-YE_izyfnp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/Price_cwddkp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943098/Apartments_new_2023/apartment_13_YAMANEVLER/map_dpunlb.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 152 м², Стамбул, азиатская часть, район Умрание (Umraniye)",
+    "fullDescription": "Элитный жилой комплекс Yamanevler Avrupa Konutlari. Cамый продаваемый проект в азиатской части Стамбула. Идеально подходит для семей, которые ведут здоровый и активный образ жизни. Открытые игровые и спортивные площадки, в том числе баскетбольные и футбольные, беговые и велосипедные дорожки, крытый и открытый бассейны, тренажерный зал, сауна и турецкая баня и многое другое." 
+  },
+  {
+    "id": "66",
+    "sku": "asdf66",
+    "name": "Квартира",
+    "price": 715000,
+    "location": "Стамбул, район Умрание",
+    "rooms": "3+1",
+    "square": "161",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943087/Apartments_new_2023/apartment_13_YAMANEVLER/27-EX-IMG-YE_rapgob.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943088/Apartments_new_2023/apartment_13_YAMANEVLER/33-EX-IMG-YE_ajpum2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943082/Apartments_new_2023/apartment_13_YAMANEVLER/9-EX-IMG-YE_wtb12r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/1-EX-IMG-YE_kdfzde.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943092/Apartments_new_2023/apartment_13_YAMANEVLER/53-EX-IMG-YE_zmqw2j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943094/Apartments_new_2023/apartment_13_YAMANEVLER/59-EX-IMG-YE_y5tjtk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/42-EX-IMG-YE_qpvrbl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943089/Apartments_new_2023/apartment_13_YAMANEVLER/29-EX-IMG-YE_bngay9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943093/Apartments_new_2023/apartment_13_YAMANEVLER/56-EX-IMG-YE_sx5rhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943079/Apartments_new_2023/apartment_13_YAMANEVLER/4-EX-IMG-YE_brtbiw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943080/Apartments_new_2023/apartment_13_YAMANEVLER/4-IN-IMG-YE_kqdjll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943086/Apartments_new_2023/apartment_13_YAMANEVLER/17-IN-IMG-YE_xhqskl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/10-IN-IMG-YE_zsc4fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943085/Apartments_new_2023/apartment_13_YAMANEVLER/15-IN-IMG-YE_ckneah.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943084/Apartments_new_2023/apartment_13_YAMANEVLER/11-IN-IMG-YE_niue7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/2-IN-IMG-YE_ootbug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/5-IN-IMG-YE_yxi3ln.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/3-IN-IMG-YE_izyfnp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/Price_cwddkp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943098/Apartments_new_2023/apartment_13_YAMANEVLER/map_dpunlb.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 161 м², Стамбул, азиатская часть, район Умрание (Umraniye)",
+    "fullDescription": "Элитный жилой комплекс Yamanevler Avrupa Konutlari. Cамый продаваемый проект в азиатской части Стамбула. Идеально подходит для семей, которые ведут здоровый и активный образ жизни. Открытые игровые и спортивные площадки, в том числе баскетбольные и футбольные, беговые и велосипедные дорожки, крытый и открытый бассейны, тренажерный зал, сауна и турецкая баня и многое другое." 
+  },
+  {
+    "id": "67",
+    "sku": "asdf67",
+    "name": "Квартира",
+    "price": 710000,
+    "location": "Стамбул, район Умрание",
+    "rooms": "4+1",
+    "square": "215",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943082/Apartments_new_2023/apartment_13_YAMANEVLER/9-EX-IMG-YE_wtb12r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943087/Apartments_new_2023/apartment_13_YAMANEVLER/27-EX-IMG-YE_rapgob.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943088/Apartments_new_2023/apartment_13_YAMANEVLER/33-EX-IMG-YE_ajpum2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/1-EX-IMG-YE_kdfzde.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943092/Apartments_new_2023/apartment_13_YAMANEVLER/53-EX-IMG-YE_zmqw2j.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943094/Apartments_new_2023/apartment_13_YAMANEVLER/59-EX-IMG-YE_y5tjtk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/42-EX-IMG-YE_qpvrbl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943089/Apartments_new_2023/apartment_13_YAMANEVLER/29-EX-IMG-YE_bngay9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943093/Apartments_new_2023/apartment_13_YAMANEVLER/56-EX-IMG-YE_sx5rhd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943079/Apartments_new_2023/apartment_13_YAMANEVLER/4-EX-IMG-YE_brtbiw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943080/Apartments_new_2023/apartment_13_YAMANEVLER/4-IN-IMG-YE_kqdjll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943086/Apartments_new_2023/apartment_13_YAMANEVLER/17-IN-IMG-YE_xhqskl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/10-IN-IMG-YE_zsc4fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943085/Apartments_new_2023/apartment_13_YAMANEVLER/15-IN-IMG-YE_ckneah.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943084/Apartments_new_2023/apartment_13_YAMANEVLER/11-IN-IMG-YE_niue7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/2-IN-IMG-YE_ootbug.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943081/Apartments_new_2023/apartment_13_YAMANEVLER/5-IN-IMG-YE_yxi3ln.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943077/Apartments_new_2023/apartment_13_YAMANEVLER/3-IN-IMG-YE_izyfnp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943097/Apartments_new_2023/apartment_13_YAMANEVLER/Price_cwddkp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696943098/Apartments_new_2023/apartment_13_YAMANEVLER/map_dpunlb.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 215 м², Стамбул, азиатская часть, район Умрание (Umraniye)",
+    "fullDescription": "Элитный жилой комплекс Yamanevler Avrupa Konutlari. Cамый продаваемый проект в азиатской части Стамбула. Идеально подходит для семей, которые ведут здоровый и активный образ жизни. Открытые игровые и спортивные площадки, в том числе баскетбольные и футбольные, беговые и велосипедные дорожки, крытый и открытый бассейны, тренажерный зал, сауна и турецкая баня и многое другое." 
+  },
+  {
+    "id": "68",
+    "sku": "asdf68",
+    "name": "Квартира",
+    "price": 196000,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "1+1",
+    "square": "54",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960929/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_15_z6qv8o.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_13_a9owf9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960928/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_14_uagwux.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_4_hv5tz6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_1_bkjmlp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_5_vms3vo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960920/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_2_k9kf8l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_3_dngvlk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_6_wtcxdy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_8_xlhywx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_12_rryed8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_9_fa4nl0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_10_xmu8dx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_7_igcorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Price_u4w0i0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/map_1_i5tswk.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 54 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
+    "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
+  },
+  
+  {
+    "id": "69",
+    "sku": "asdf69",
+    "name": "Квартира",
+    "price": 353000,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "1+1",
+    "square": "131",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960928/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_14_uagwux.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_4_hv5tz6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960929/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_15_z6qv8o.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_13_a9owf9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_1_bkjmlp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_5_vms3vo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960920/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_2_k9kf8l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_3_dngvlk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_6_wtcxdy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_8_xlhywx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_12_rryed8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_9_fa4nl0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_10_xmu8dx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_7_igcorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Price_u4w0i0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/map_1_i5tswk.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 131 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
+    "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
+  },
+  
+  {
+    "id": "70",
+    "sku": "asdf70",
+    "name": "Квартира",
+    "price": 274000,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "2+1",
+    "square": "87",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_4_hv5tz6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960929/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_15_z6qv8o.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960928/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_14_uagwux.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_13_a9owf9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_1_bkjmlp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_5_vms3vo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960920/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_2_k9kf8l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_3_dngvlk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_6_wtcxdy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_8_xlhywx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_12_rryed8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_9_fa4nl0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_10_xmu8dx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_7_igcorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Price_u4w0i0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/map_1_i5tswk.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 87 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
+    "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
+  },
+  {
+    "id": "71",
+    "sku": "asdf71",
+    "name": "Квартира",
+    "price": 497000,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "2+1",
+    "square": "173",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960928/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_14_uagwux.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_13_a9owf9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_4_hv5tz6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960929/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_15_z6qv8o.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_1_bkjmlp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_5_vms3vo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960920/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_2_k9kf8l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_3_dngvlk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_6_wtcxdy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_8_xlhywx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_12_rryed8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_9_fa4nl0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_10_xmu8dx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_7_igcorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Price_u4w0i0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/map_1_i5tswk.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 173 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
+    "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
+  },
+  {
+    "id": "72",
+    "sku": "asdf72",
+    "name": "Квартира",
+    "price": 525000,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "3+1",
+    "square": "167",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_13_a9owf9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_4_hv5tz6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960928/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_14_uagwux.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960929/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_15_z6qv8o.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_1_bkjmlp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_5_vms3vo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960920/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_2_k9kf8l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_3_dngvlk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_6_wtcxdy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960923/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_8_xlhywx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_12_rryed8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_9_fa4nl0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_10_xmu8dx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960926/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Photos_7_igcorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960930/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/Price_u4w0i0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1696960921/Apartments_new_2023/apartment_14_MATAR_Residence_Deluxia/map_1_i5tswk.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 167 м², Стамбул, европейская часть, район Башакшехир (Başakşehir)",
+    "fullDescription": "Уникальный проект Residence Inn Deluxia, с прекрасным видом на пруд Башакшехир, известный как самый большой искусственный пруд в Турции. Построен с концептуальной архитектурой элитного отеля из дорогих материалов." 
+  },
+  
   
 
 

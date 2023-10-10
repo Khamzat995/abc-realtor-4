@@ -66,6 +66,8 @@ const ProductGridListSingle = ({
               ""
             )}
               
+              <p className="product-pk-citizenship">{product.citizenship}</p>
+              
             <div className="product-action">
               <div className="pro-same-action pro-wishlist">
                 <button
