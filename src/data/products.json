@@ -3239,6 +3239,367 @@
     "shortDescription": "Квартира 4+1, площадь: 226 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
     "fullDescription": "Уникальный проект Istanbul 216. В жилой комплекс входит торговый центр, фитнес, пилатес и йога, спа, хаммам мужской и женский по отдельности, открытый и крытый бассейны, массаж и многое другое. До метро 1 минута." 
   },
+  {
+    "id": "76",
+    "sku": "asdf76",
+    "name": "Квартира",
+    "price": 217935,
+    "location": "Стамбул, район Малтепе",
+    "rooms": "1+1",
+    "square": "50",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026377/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_11_o0zwfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_2_b3ipee.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_7_mdgeif.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026380/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_12_a2m7cg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026379/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_6_dlgub7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_5_ytt8d0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026376/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_18_adrk2x.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026375/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_17_odg1rt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_11_isa36i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026375/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_16_tqzvxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_7_y8dait.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_20_bzsgzg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_3_r1s2wk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026373/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_6_lftdwr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026373/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_1_i5svj6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026381/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_21_agsqxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026380/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Price_bnzu7y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026376/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/map_e9dvzq.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 50 м², Стамбул, азиатская часть, район Малтепе (Maltepe)",
+    "fullDescription": "Проект жилого комплекса Deluxia Park Residence, достойный восхищения. Расположен в Анатолийской части Стамбула, в районе Малтепе, ценность которого ежедневно растет. Вы будете наслаждаться бесконечной синевой моря и пейзажным видом на Принцевы острова — это невероятное удовольствие." 
+  },
+  {
+    "id": "77",
+    "sku": "asdf77",
+    "name": "Квартира",
+    "price": 258696,
+    "location": "Стамбул, район Малтепе",
+    "rooms": "1+1",
+    "square": "64",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_7_mdgeif.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026380/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_12_a2m7cg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026377/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_11_o0zwfe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_2_b3ipee.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026379/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_6_dlgub7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Photos_5_ytt8d0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026376/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_18_adrk2x.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026375/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_17_odg1rt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_11_isa36i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026375/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_16_tqzvxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_7_y8dait.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026378/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_20_bzsgzg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026374/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_3_r1s2wk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026373/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_6_lftdwr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026373/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_1_i5svj6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026381/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Apartment_21_agsqxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026380/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/Price_bnzu7y.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697026376/Apartments_new_2023/apartment_16_MATAR_DELUXE_PARK_RESIDENCE/map_e9dvzq.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 64 м², Стамбул, азиатская часть, район Малтепе (Maltepe)",
+    "fullDescription": "Проект жилого комплекса Deluxia Park Residence, достойный восхищения. Расположен в Анатолийской части Стамбула, в районе Малтепе, ценность которого ежедневно растет. Вы будете наслаждаться бесконечной синевой моря и пейзажным видом на Принцевы острова — это невероятное удовольствие." 
+  },
+  {
+    "id": "78",
+    "sku": "asdf78",
+    "name": "Дуплекс",
+    "price": 2730000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "4+1",
+    "square": "305",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Дуплексы"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044736/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/2_s2dt5e.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044740/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/3_q9xhxn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044755/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/1_m9lbj0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044760/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/28_no89g1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044758/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/27_ssmxcp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044757/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/7_jchorb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044755/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/24_oeiwj3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044756/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/25_htnata.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044755/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/23_qjjxxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044754/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/8_dqg9co.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044753/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/21_iexgyn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044741/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/15_dzc8sd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044751/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/16_zpwfcb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044741/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/5_tqzq6x.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044741/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/9_r8ausv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044739/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/6_a0bp14.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044738/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/13_zokskm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697044758/Apartments_new_2023/apartment_17_MATAR_MARTI_REZIDANS_CADDEBOSTAN/map_qugfqz.webp"
+    ],
+    "shortDescription": "Квартира-дуплекс 4+1, площадь: 305 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Ультра современный жилой комплекс Marti Residence с уникальной архитектурой и дизайном интерьера расположен в азиатской части Стамбула, на \"Багдадской улице\", считающейся одной из самых престижных улиц Стамбула. Апартаменты имеют прекрасный панорамный вид на Мраморное море, Принцевы острова и побережье. (В наличии только дуплексы)." 
+  },
+  {
+    "id": "79",
+    "sku": "asdf79",
+    "name": "Квартира",
+    "price": 210000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "1+1",
+    "square": "58",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046706/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/11_tcbd0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046707/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/8_s9h7fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/33_fgsrqi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/6_ofhnin.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/2_vkt4iu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/9_ypnq15.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046699/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/7_jyxu4c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/5_kactxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/4_pmsfuw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/21_cnmmgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/61_q3kouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/41_ebhdxg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/31_nlvg6r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/81_zofljn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/71_gqyfq2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/121_tvdmlh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/51_apnrkw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046697/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/Price_phfovx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046703/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/map_hemacr.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 58 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Ультра современный жилой комплекс Uplife расположен на самом красивом месте района Kadiköy, одного из самых престижных районов Стамбула. Состоит из 830 роскошных резиденций и 20 коммерческих объектов, находящихся в 4 башнях, три из которых 23-этажные, а одна 22-этажная." 
+  },
+  {
+    "id": "80",
+    "sku": "asdf80",
+    "name": "Квартира",
+    "price": 245000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "1+1",
+    "square": "61",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/33_fgsrqi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/6_ofhnin.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046706/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/11_tcbd0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046707/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/8_s9h7fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/2_vkt4iu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/9_ypnq15.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046699/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/7_jyxu4c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/5_kactxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/4_pmsfuw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/21_cnmmgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/61_q3kouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/41_ebhdxg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/31_nlvg6r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/81_zofljn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/71_gqyfq2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/121_tvdmlh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/51_apnrkw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046697/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/Price_phfovx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046703/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/map_hemacr.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 61 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Ультра современный жилой комплекс Uplife расположен на самом красивом месте района Kadiköy, одного из самых престижных районов Стамбула. Состоит из 830 роскошных резиденций и 20 коммерческих объектов, находящихся в 4 башнях, три из которых 23-этажные, а одна 22-этажная." 
+  },
+  {
+    "id": "81",
+    "sku": "asdf81",
+    "name": "Квартира",
+    "price": 330000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "2+1",
+    "square": "86",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/6_ofhnin.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046706/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/11_tcbd0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/33_fgsrqi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046707/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/8_s9h7fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/2_vkt4iu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/9_ypnq15.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046699/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/7_jyxu4c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/5_kactxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/4_pmsfuw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/21_cnmmgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/61_q3kouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/41_ebhdxg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/31_nlvg6r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/81_zofljn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/71_gqyfq2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/121_tvdmlh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/51_apnrkw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046697/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/Price_phfovx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046703/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/map_hemacr.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 86 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Ультра современный жилой комплекс Uplife расположен на самом красивом месте района Kadiköy, одного из самых престижных районов Стамбула. Состоит из 830 роскошных резиденций и 20 коммерческих объектов, находящихся в 4 башнях, три из которых 23-этажные, а одна 22-этажная." 
+  },
+  {
+    "id": "82",
+    "sku": "asdf82",
+    "name": "Квартира",
+    "price": 440000,
+    "location": "Стамбул, район Кадыкёй",
+    "rooms": "2+1",
+    "square": "113",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/33_fgsrqi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046707/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/8_s9h7fu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046701/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/6_ofhnin.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046706/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/11_tcbd0h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/2_vkt4iu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046700/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/9_ypnq15.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046699/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/7_jyxu4c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/5_kactxj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/4_pmsfuw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046698/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/21_cnmmgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/61_q3kouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/41_ebhdxg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046702/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/31_nlvg6r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/81_zofljn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046704/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/71_gqyfq2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/121_tvdmlh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046705/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/51_apnrkw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046697/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/Price_phfovx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697046703/Apartments_new_2023/apartment_18_MATAR_UPLIFE_KADIKOY/map_hemacr.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 113 м², Стамбул, азиатская часть, район Кадыкёй (Kadiköy)",
+    "fullDescription": "Ультра современный жилой комплекс Uplife расположен на самом красивом месте района Kadiköy, одного из самых престижных районов Стамбула. Состоит из 830 роскошных резиденций и 20 коммерческих объектов, находящихся в 4 башнях, три из которых 23-этажные, а одна 22-этажная." 
+  },
   
   
 
