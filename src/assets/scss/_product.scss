@@ -428,7 +428,7 @@ background-color: rgba(196, 190, 190, 0.151); */
           top: 10px;
           right: -13px;
 
-          width: 7px;
+          width: 0px;
           height: 2px;
 
           content: "";
@@ -440,8 +440,8 @@ background-color: rgba(196, 190, 190, 0.151); */
         }
         &.old {
           text-decoration: line-through;
-
           color: #8e8e8e;
+          display: none;
         }
       }
     }

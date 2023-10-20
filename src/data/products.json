@@ -7261,6 +7261,1032 @@
     "shortDescription": "Квартира 4+1, площадь: 236 м², Стамбул, европейская часть, район Башакшехир (Basaksehir)",  
     "fullDescription": "Современный жилой комплекс Mavera Boutique, построен в элегантном стиле бутик-отеля. Находится рядом с метро и всего в 25 минутах от нового аэропорта Стамбула. Большие, светлые и просторные апартаменты, с прекрассным видом из окон."
   },
+  {
+    "id": "164",
+    "sku": "asdf164",
+    "name": "Квартира",
+    "price": 253600,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "2+1",
+    "square": "145",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716956/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/327520_wae7v0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/943517_pjgseg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716952/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/971521_cigs5f.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/130522_ow2mhu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/254515_htuypv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716954/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/343519_x5vnvt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716953/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/345542_js1zyf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716954/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/794551_gndlrc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716953/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/468555_semtqh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716948/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/265545_i4h47v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/437566_vmaexn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/907565_mmbtmp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716945/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/901563_i9g8a8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/158558_xwwgrm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716956/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/642559_naejll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/121560_an8le8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716955/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/838561_v4ejzh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/260564_ktas8c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716948/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/306562_rgsyae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716952/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/371523_gdhvob.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 145 м², Стамбул, европейская часть, район Башакшехир (Basaksehir)",  
+    "fullDescription": "Современный жилой комплекс Seyran Şehir, оснащен множеством зеленых зон. Есть рестораны и кафетерии, магазины, автостоянки, спортивные площадки, бассейны, фитнес-центр, турецкая и финская бани, сауна и парилка. Находится в 3 минутах от Олимпийского стадиона и метро, ​​в 2 минутах от городской больницы и в 15 минутах от аэропорта имени Ататюрка."
+  },
+  {
+    "id": "165",
+    "sku": "asdf165",
+    "name": "Квартира",
+    "price": 328100,
+    "location": "Стамбул, район Башакшехир",
+    "rooms": "3+1",
+    "square": "186",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716952/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/971521_cigs5f.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/130522_ow2mhu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716956/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/327520_wae7v0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/943517_pjgseg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716951/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/254515_htuypv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716954/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/343519_x5vnvt.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716953/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/345542_js1zyf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716954/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/794551_gndlrc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716953/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/468555_semtqh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716948/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/265545_i4h47v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/437566_vmaexn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/907565_mmbtmp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716945/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/901563_i9g8a8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/158558_xwwgrm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716956/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/642559_naejll.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/121560_an8le8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716955/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/838561_v4ejzh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716946/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/260564_ktas8c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716948/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/306562_rgsyae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697716952/Apartments_new_2023/apartment_41_MAVERA_SEYRAN/371523_gdhvob.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 186 м², Стамбул, европейская часть, район Башакшехир (Basaksehir)",  
+    "fullDescription": "Современный жилой комплекс Seyran Şehir, оснащен множеством зеленых зон. Есть рестораны и кафетерии, магазины, автостоянки, спортивные площадки, бассейны, фитнес-центр, турецкая и финская бани, сауна и парилка. Находится в 3 минутах от Олимпийского стадиона и метро, ​​в 2 минутах от городской больницы и в 15 минутах от аэропорта имени Ататюрка."
+  },
+  {
+    "id": "166",
+    "sku": "asdf166",
+    "name": "Квартира",
+    "price": 192000,
+    "location": "Стамбул, район Кючюкчекмедже",
+    "rooms": "1+1",
+    "square": "78",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717849/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3211_uqgvgj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717849/Apartments_new_2023/apartment_42_LOFT_VALENTINE/321_xmglss.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717848/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3216_iqtd39.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717849/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3212_wymbta.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717851/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3215_tmmbmk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717851/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3217_shj61r.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717853/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3214_h7kpkx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717853/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3213_vuscq9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717853/Apartments_new_2023/apartment_42_LOFT_VALENTINE/8958_st2xbo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717853/Apartments_new_2023/apartment_42_LOFT_VALENTINE/3_uovzrc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717852/Apartments_new_2023/apartment_42_LOFT_VALENTINE/45882_oxhjsj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717848/Apartments_new_2023/apartment_42_LOFT_VALENTINE/4_obaxek.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717846/Apartments_new_2023/apartment_42_LOFT_VALENTINE/2_usmke6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717846/Apartments_new_2023/apartment_42_LOFT_VALENTINE/1_ytmjec.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697717853/Apartments_new_2023/apartment_42_LOFT_VALENTINE/map_x2okso.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 78 м², Стамбул, европейская часть, район Кючюкчекмедже (Kucukcekmece)",  
+    "fullDescription": "Современный комплекс Loft Valentine расположен на европейской стороне Стамбула и окружен основными дорогами мегаполиса, а также множеством больниц, университетов, школ, торговых центров и пр. В комплексе имеется: круглосуточная охрана, фитнес зал и зимний бассейн на террасе с прекрасным видом, хаммам, сауна, рестораны и кафе, крытая и открытая автостоянки."
+  },
+  {
+    "id": "167",
+    "sku": "asdf167",
+    "name": "Квартира",
+    "price": 700000,
+    "location": "Стамбул, район Кягытхане",
+    "rooms": "2+1",
+    "square": "185",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718303/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/2_zgzjfi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/6_yc6bhe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718304/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/1_a0spgn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/4_habkzr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/8_momeae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/22_ctfrgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/25_ugthvg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/3_awsm80.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718306/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/17_oew0tf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/20_heo9si.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/31_ifureu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/10_j1vpi9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/37_ogt4q4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/35_ajenmy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718312/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/34_u4hcdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/14_kk4hyg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/29_uxlich.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/39_rid4ag.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718313/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/locasons_oqxnzj.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 185 м², Стамбул, европейская часть, район Кягытхане (Kagithane)",  
+    "fullDescription": "Современный комплекс Avrupa Konutlari ÇamliVadi находится в центре Стамбула, на окраине леса. Имеет многоцелевые спортивные площадки, крытые и открытые бассейны, конноспортивный комплекс для верховой езды. 5 минут до метро, 25 минут до аэропорта. Рядом школа, рынок, торговые центры и многое другое. "
+  },
+  {
+    "id": "168",
+    "sku": "asdf168",
+    "name": "Квартира",
+    "price": 850000,
+    "location": "Стамбул, район Кягытхане",
+    "rooms": "3+1",
+    "square": "244",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718304/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/1_a0spgn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/4_habkzr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718303/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/2_zgzjfi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/6_yc6bhe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/8_momeae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/22_ctfrgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/25_ugthvg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/3_awsm80.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718306/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/17_oew0tf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/20_heo9si.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/31_ifureu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/10_j1vpi9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/37_ogt4q4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/35_ajenmy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718312/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/34_u4hcdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/14_kk4hyg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/29_uxlich.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/39_rid4ag.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718313/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/locasons_oqxnzj.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 244 м², Стамбул, европейская часть, район Кягытхане (Kagithane)",  
+    "fullDescription": "Современный комплекс Avrupa Konutlari ÇamliVadi находится в центре Стамбула, на окраине леса. Имеет многоцелевые спортивные площадки, крытые и открытые бассейны, конноспортивный комплекс для верховой езды. 5 минут до метро, 25 минут до аэропорта. Рядом школа, рынок, торговые центры и многое другое. "
+  },
+  {
+    "id": "169",
+    "sku": "asdf169",
+    "name": "Квартира",
+    "price": 1200000,
+    "location": "Стамбул, район Кягытхане",
+    "rooms": "4+1",
+    "square": "306",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "4+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/4_habkzr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718303/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/2_zgzjfi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718304/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/1_a0spgn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/6_yc6bhe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/8_momeae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/22_ctfrgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/25_ugthvg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/3_awsm80.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718306/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/17_oew0tf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/20_heo9si.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/31_ifureu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/10_j1vpi9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/37_ogt4q4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/35_ajenmy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718312/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/34_u4hcdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/14_kk4hyg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/29_uxlich.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/39_rid4ag.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718313/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/locasons_oqxnzj.webp"
+    ],
+    "shortDescription": "Квартира 4+1, площадь: 306 м², Стамбул, европейская часть, район Кягытхане (Kagithane)",  
+    "fullDescription": "Современный комплекс Avrupa Konutlari ÇamliVadi находится в центре Стамбула, на окраине леса. Имеет многоцелевые спортивные площадки, крытые и открытые бассейны, конноспортивный комплекс для верховой езды. 5 минут до метро, 25 минут до аэропорта. Рядом школа, рынок, торговые центры и многое другое. "
+  },
+  {
+    "id": "171",
+    "sku": "asdf171",
+    "name": "Квартира",
+    "price": 1400000,
+    "location": "Стамбул, район Кягытхане",
+    "rooms": "5+1",
+    "square": "239",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "5+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718304/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/1_a0spgn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/6_yc6bhe.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718305/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/4_habkzr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718303/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/2_zgzjfi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/8_momeae.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/22_ctfrgi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/25_ugthvg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/3_awsm80.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718306/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/17_oew0tf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/20_heo9si.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718309/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/31_ifureu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/10_j1vpi9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/37_ogt4q4.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718311/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/35_ajenmy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718312/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/34_u4hcdb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718308/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/14_kk4hyg.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/29_uxlich.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718310/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/39_rid4ag.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697718313/Apartments_new_2023/apartment_43_AVRUPA_CAMLI/locasons_oqxnzj.webp"
+    ],
+    "shortDescription": "Квартира 5+1, площадь: 239 м², Стамбул, европейская часть, район Кягытхане (Kagithane)",  
+    "fullDescription": "Современный комплекс Avrupa Konutlari ÇamliVadi находится в центре Стамбула, на окраине леса. Имеет многоцелевые спортивные площадки, крытые и открытые бассейны, конноспортивный комплекс для верховой езды. 5 минут до метро, 25 минут до аэропорта. Рядом школа, рынок, торговые центры и многое другое. "
+  },
+  {
+    "id": "172",
+    "sku": "asdf172",
+    "name": "Квартира",
+    "price": 770000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "3+1",
+    "square": "176",
+    "discount": 2024,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/3_vy40mr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/1_zwe86l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/8_rnhuyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/9_imk5cb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/23_s8fqi1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/21_oqy7z2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/06_hkpsxy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/13_nndstl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/11_mvojfv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/07_hk4rql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/04_bmm1vw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/08_ejj9la.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/111_hdg2op.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/24_fstsgp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/01_saxz8v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/03_p0mh6d.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721365/Apartments_new_2023/apartment_44_GARDEN_PARK/Distance_xudgxo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721364/Apartments_new_2023/apartment_44_GARDEN_PARK/map_yj2r4r.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 176 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Mega Garden Park, расположенный в центре престижного района Зейтинбурну Стамбула. Рядом с национальным парком CIRPICI и трассой Е5. 3 минуты до метро Zeytinburnu. 5 минут до ТЦ Мармара Форум и набережной, 35 минут до аэропорта Стамбула. Крытый бассейн, сауна, тренажерный зал и турецкой баня, детская площадка. "
+  },
+  {
+    "id": "173",
+    "sku": "asdf173",
+    "name": "Квартира",
+    "price": 485000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "2+1",
+    "square": "122",
+    "discount": 2024,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/8_rnhuyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/9_imk5cb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/3_vy40mr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/1_zwe86l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/23_s8fqi1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/21_oqy7z2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/06_hkpsxy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/13_nndstl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/11_mvojfv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/07_hk4rql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/04_bmm1vw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/08_ejj9la.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/111_hdg2op.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/24_fstsgp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/01_saxz8v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/03_p0mh6d.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721365/Apartments_new_2023/apartment_44_GARDEN_PARK/Distance_xudgxo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721364/Apartments_new_2023/apartment_44_GARDEN_PARK/map_yj2r4r.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 122 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Mega Garden Park, расположенный в центре престижного района Зейтинбурну Стамбула. Рядом с национальным парком CIRPICI и трассой Е5. 3 минуты до метро Zeytinburnu. 5 минут до ТЦ Мармара Форум и набережной, 35 минут до аэропорта Стамбула. Крытый бассейн, сауна, тренажерный зал и турецкой баня, детская площадка. "
+  },
+  {
+    "id": "174",
+    "sku": "asdf174",
+    "name": "Квартира",
+    "price": 320000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "1+1",
+    "square": "73",
+    "discount": 2024,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": " ",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/9_imk5cb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/3_vy40mr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/8_rnhuyx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/1_zwe86l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/23_s8fqi1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721361/Apartments_new_2023/apartment_44_GARDEN_PARK/21_oqy7z2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/06_hkpsxy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/13_nndstl.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721360/Apartments_new_2023/apartment_44_GARDEN_PARK/11_mvojfv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721357/Apartments_new_2023/apartment_44_GARDEN_PARK/07_hk4rql.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/04_bmm1vw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721358/Apartments_new_2023/apartment_44_GARDEN_PARK/08_ejj9la.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/111_hdg2op.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721362/Apartments_new_2023/apartment_44_GARDEN_PARK/24_fstsgp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721355/Apartments_new_2023/apartment_44_GARDEN_PARK/01_saxz8v.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721354/Apartments_new_2023/apartment_44_GARDEN_PARK/03_p0mh6d.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721365/Apartments_new_2023/apartment_44_GARDEN_PARK/Distance_xudgxo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697721364/Apartments_new_2023/apartment_44_GARDEN_PARK/map_yj2r4r.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 73 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Mega Garden Park, расположенный в центре престижного района Зейтинбурну Стамбула. Рядом с национальным парком CIRPICI и трассой Е5. 3 минуты до метро Zeytinburnu. 5 минут до ТЦ Мармара Форум и набережной, 35 минут до аэропорта Стамбула. Крытый бассейн, сауна, тренажерный зал и турецкой баня, детская площадка. "
+  },
+  {
+    "id": "175",
+    "sku": "asdf175",
+    "name": "Квартира",
+    "price": 892000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "2+1",
+    "square": "137",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724275/Apartments_new_2023/apartment_45_SELENIUM_PARK/3_ishx2i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/4_yntfr7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724273/Apartments_new_2023/apartment_45_SELENIUM_PARK/1_f4nmn6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724274/Apartments_new_2023/apartment_45_SELENIUM_PARK/2_isqi7p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/7_behh58.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724278/Apartments_new_2023/apartment_45_SELENIUM_PARK/6_d5a4ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724279/Apartments_new_2023/apartment_45_SELENIUM_PARK/5_bkrscy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/11_qxiouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/12_csjkfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/8_cuxtvb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/10_bflr0n.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/9_fsc8n2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/14_tn2f75.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/13_q9nqkj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/16_voigtp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/15_poheto.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/17_t80j7i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724283/Apartments_new_2023/apartment_45_SELENIUM_PARK/19_swwmah.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 137 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Selenium Park, находится в престижном историческом районе Стамбула Zeytinburnu, примыкающем к Фатиху и Бакыркой. В пешей доступности 4 больницы и 3 университета. Включает в себя социальные зоны: крытый бассейн, кинозал, фитнес, сауна, парная, массажный кабинет, детская игровая комната, прогулочные и беговые дорожки и многое другое."
+  },
+  {
+    "id": "176",
+    "sku": "asdf176",
+    "name": "Квартира",
+    "price": 865000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "3+1",
+    "square": "165",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724273/Apartments_new_2023/apartment_45_SELENIUM_PARK/1_f4nmn6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724274/Apartments_new_2023/apartment_45_SELENIUM_PARK/2_isqi7p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724275/Apartments_new_2023/apartment_45_SELENIUM_PARK/3_ishx2i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/4_yntfr7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/7_behh58.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724278/Apartments_new_2023/apartment_45_SELENIUM_PARK/6_d5a4ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724279/Apartments_new_2023/apartment_45_SELENIUM_PARK/5_bkrscy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/11_qxiouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/12_csjkfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/8_cuxtvb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/10_bflr0n.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/9_fsc8n2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/14_tn2f75.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/13_q9nqkj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/16_voigtp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/15_poheto.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/17_t80j7i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724283/Apartments_new_2023/apartment_45_SELENIUM_PARK/19_swwmah.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 165 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Selenium Park, находится в престижном историческом районе Стамбула Zeytinburnu, примыкающем к Фатиху и Бакыркой. В пешей доступности 4 больницы и 3 университета. Включает в себя социальные зоны: крытый бассейн, кинозал, фитнес, сауна, парная, массажный кабинет, детская игровая комната, прогулочные и беговые дорожки и многое другое."
+  },
+  {
+    "id": "177",
+    "sku": "asdf177",
+    "name": "Квартира",
+    "price": 1085000,
+    "location": "Стамбул, район Зейтинбурну",
+    "rooms": "5+1",
+    "square": "231",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "5+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724274/Apartments_new_2023/apartment_45_SELENIUM_PARK/2_isqi7p.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724275/Apartments_new_2023/apartment_45_SELENIUM_PARK/3_ishx2i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724273/Apartments_new_2023/apartment_45_SELENIUM_PARK/1_f4nmn6.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/4_yntfr7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/7_behh58.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724278/Apartments_new_2023/apartment_45_SELENIUM_PARK/6_d5a4ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724279/Apartments_new_2023/apartment_45_SELENIUM_PARK/5_bkrscy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/11_qxiouu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/12_csjkfa.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/8_cuxtvb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724277/Apartments_new_2023/apartment_45_SELENIUM_PARK/10_bflr0n.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724276/Apartments_new_2023/apartment_45_SELENIUM_PARK/9_fsc8n2.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/14_tn2f75.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724280/Apartments_new_2023/apartment_45_SELENIUM_PARK/13_q9nqkj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724281/Apartments_new_2023/apartment_45_SELENIUM_PARK/16_voigtp.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/15_poheto.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724284/Apartments_new_2023/apartment_45_SELENIUM_PARK/17_t80j7i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697724283/Apartments_new_2023/apartment_45_SELENIUM_PARK/19_swwmah.webp"
+    ],
+    "shortDescription": "Квартира 5+1, площадь: 231 м², Стамбул, европейская часть, район Зейтинбурну (Zeytinburnu)",  
+    "fullDescription": "Роскошный жилой комплекс Selenium Park, находится в престижном историческом районе Стамбула Zeytinburnu, примыкающем к Фатиху и Бакыркой. В пешей доступности 4 больницы и 3 университета. Включает в себя социальные зоны: крытый бассейн, кинозал, фитнес, сауна, парная, массажный кабинет, детская игровая комната, прогулочные и беговые дорожки и многое другое."
+  },
+  {
+    "id": "178",
+    "sku": "asdf178",
+    "name": "Квартира",
+    "price": 600000,
+    "location": "Стамбул, район Бейоглу",
+    "rooms": "1+1",
+    "square": "52",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/16_vwaaxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/44_uedscm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/33_kdjhes.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/22_ckishi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/14_fheeam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/13_ftlhpo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/15_tuieyk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791403/Apartments_new_2023/apartment_46_TAKSIM_360/11_t4dzku.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791402/Apartments_new_2023/apartment_46_TAKSIM_360/8_lkbmam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791400/Apartments_new_2023/apartment_46_TAKSIM_360/12_zoek2w.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791401/Apartments_new_2023/apartment_46_TAKSIM_360/7_alnipw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/9_kfy22z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/5_idebc5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791397/Apartments_new_2023/apartment_46_TAKSIM_360/6_ndcg8m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791398/Apartments_new_2023/apartment_46_TAKSIM_360/3_tnvw46.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791396/Apartments_new_2023/apartment_46_TAKSIM_360/4_xsgjgw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/2_h3tlj5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/1_jdye0i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/55_ahycy9.webp"
+    ],
+    "shortDescription": "Квартира 1+1, площадь: 52 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu), также в наличии квартира 1+1, 99 м², цена 1 млн.$ ",   
+    "fullDescription": "Комплекс Taksim 360 удостоен награды «Лучший проект обновления города в Европе»,  расположен престижном историческом районе Стамбула Beyoğlu, в 350 метрах от площади Таксим, самого важного центра притяжения Стамбула, и всего в 180 метрах от знаменитой улицы Истикляль. Состоит из 9 корпусов, включает в себя офисы, резиденции, апартаменты и торговые площади, всего 971 единиц."
+  },
+  {
+    "id": "179",
+    "sku": "asdf178",
+    "name": "Квартира",
+    "price": 857000,
+    "location": "Стамбул, район Бейоглу",
+    "rooms": "2+1",
+    "square": "92",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/33_kdjhes.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/22_ckishi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/16_vwaaxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/44_uedscm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/14_fheeam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/13_ftlhpo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/15_tuieyk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791403/Apartments_new_2023/apartment_46_TAKSIM_360/11_t4dzku.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791402/Apartments_new_2023/apartment_46_TAKSIM_360/8_lkbmam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791400/Apartments_new_2023/apartment_46_TAKSIM_360/12_zoek2w.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791401/Apartments_new_2023/apartment_46_TAKSIM_360/7_alnipw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/9_kfy22z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/5_idebc5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791397/Apartments_new_2023/apartment_46_TAKSIM_360/6_ndcg8m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791398/Apartments_new_2023/apartment_46_TAKSIM_360/3_tnvw46.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791396/Apartments_new_2023/apartment_46_TAKSIM_360/4_xsgjgw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/2_h3tlj5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/1_jdye0i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/55_ahycy9.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 92 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu), также в наличии квартира 2+1, 234 м², цена 2 млн. 261 тыс. $ ",  
+    "fullDescription": "Комплекс Taksim 360 удостоен награды «Лучший проект обновления города в Европе»,  расположен престижном историческом районе Стамбула Beyoğlu, в 350 метрах от площади Таксим, самого важного центра притяжения Стамбула, и всего в 180 метрах от знаменитой улицы Истикляль. Состоит из 9 корпусов, включает в себя офисы, резиденции, апартаменты и торговые площади, всего 971 единиц."
+  },
+  {
+    "id": "181",
+    "sku": "asdf181",
+    "name": "Квартира",
+    "price": 1514000,
+    "location": "Стамбул, район Бейоглу",
+    "rooms": "3+1",
+    "square": "152",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/14_fheeam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/13_ftlhpo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/33_kdjhes.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/22_ckishi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/16_vwaaxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791408/Apartments_new_2023/apartment_46_TAKSIM_360/44_uedscm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791404/Apartments_new_2023/apartment_46_TAKSIM_360/15_tuieyk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791403/Apartments_new_2023/apartment_46_TAKSIM_360/11_t4dzku.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791402/Apartments_new_2023/apartment_46_TAKSIM_360/8_lkbmam.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791400/Apartments_new_2023/apartment_46_TAKSIM_360/12_zoek2w.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791401/Apartments_new_2023/apartment_46_TAKSIM_360/7_alnipw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/9_kfy22z.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791399/Apartments_new_2023/apartment_46_TAKSIM_360/5_idebc5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791397/Apartments_new_2023/apartment_46_TAKSIM_360/6_ndcg8m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791398/Apartments_new_2023/apartment_46_TAKSIM_360/3_tnvw46.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791396/Apartments_new_2023/apartment_46_TAKSIM_360/4_xsgjgw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/2_h3tlj5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791395/Apartments_new_2023/apartment_46_TAKSIM_360/1_jdye0i.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697791407/Apartments_new_2023/apartment_46_TAKSIM_360/55_ahycy9.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 152 м², Стамбул, европейская часть, район Бейоглу (Beyoğlu), также в наличии квартира 3+1, 262 м², цена 2 млн. 406 тыс. $ ",  
+    "fullDescription": "Комплекс Taksim 360 удостоен награды «Лучший проект обновления города в Европе»,  расположен престижном историческом районе Стамбула Beyoğlu, в 350 метрах от площади Таксим, самого важного центра притяжения Стамбула, и всего в 180 метрах от знаменитой улицы Истикляль. Состоит из 9 корпусов, включает в себя офисы, резиденции, апартаменты и торговые площади, всего 971 единиц."
+  },
+  {
+    "id": "182",
+    "sku": "asdf182",
+    "name": "Квартира",
+    "price": 670000,
+    "location": "Стамбул, район Эйюпсултан",
+    "rooms": "2+1",
+    "square": "158",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "2+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697817997/Apartments_new_2023/apartment_48_NEFES_GOKTURK/14_mdd9iq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/17_ydovrw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816859/Apartments_new_2023/apartment_48_NEFES_GOKTURK/11_rhmfuk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816856/Apartments_new_2023/apartment_48_NEFES_GOKTURK/16_olcnis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816855/Apartments_new_2023/apartment_48_NEFES_GOKTURK/13_vp0mwo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816854/Apartments_new_2023/apartment_48_NEFES_GOKTURK/15_xya4vi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816861/Apartments_new_2023/apartment_48_NEFES_GOKTURK/23_t1lzxn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816858/Apartments_new_2023/apartment_48_NEFES_GOKTURK/19_wpyglh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/36_ydby4a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816865/Apartments_new_2023/apartment_48_NEFES_GOKTURK/46_k063s8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/58_rqhycd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/35_q2dfcs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/69_nt8cyo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816868/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Bathroom_otm0ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816869/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Kitchen_chuxti.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816870/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Laundry_ohdzyh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816871/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Locaton_ajs2pa.webp"
+    ],
+    "shortDescription": "Квартира 2+1, площадь: 152 м², Стамбул, европейская часть, район Эйюпсултан (Eyüpsultan)",  
+    "fullDescription": "Уникальный и современный жилой комплекс Nefes Koru Göktürk занимает достойное место среди красот Стамбула и его притягательной атмосферы! В нем есть все необходимое чтобы жить в мире со своей семьей: рядом лес и река, на территории комплекса плавательный бассейн (открытый и закрытый), детские игровые площадки, тренажерный зал, йога и пилатес, сауна и многое другое."
+  },
+  {
+    "id": "183",
+    "sku": "asdf183",
+    "name": "Квартира",
+    "price": 1100000,
+    "location": "Стамбул, район Эйюпсултан",
+    "rooms": "3+1",
+    "square": "355",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Квартиры"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816859/Apartments_new_2023/apartment_48_NEFES_GOKTURK/11_rhmfuk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816856/Apartments_new_2023/apartment_48_NEFES_GOKTURK/16_olcnis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697817997/Apartments_new_2023/apartment_48_NEFES_GOKTURK/14_mdd9iq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/17_ydovrw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816855/Apartments_new_2023/apartment_48_NEFES_GOKTURK/13_vp0mwo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816854/Apartments_new_2023/apartment_48_NEFES_GOKTURK/15_xya4vi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816861/Apartments_new_2023/apartment_48_NEFES_GOKTURK/23_t1lzxn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816858/Apartments_new_2023/apartment_48_NEFES_GOKTURK/19_wpyglh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/36_ydby4a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816865/Apartments_new_2023/apartment_48_NEFES_GOKTURK/46_k063s8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/58_rqhycd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/35_q2dfcs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/69_nt8cyo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816868/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Bathroom_otm0ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816869/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Kitchen_chuxti.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816870/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Laundry_ohdzyh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816871/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Locaton_ajs2pa.webp"
+    ],
+    "shortDescription": "Квартира 3+1, площадь: 355 м², Стамбул, европейская часть, район Эйюпсултан (Eyüpsultan)",  
+    "fullDescription": "Уникальный и современный жилой комплекс Nefes Koru Göktürk занимает достойное место среди красот Стамбула и его притягательной атмосферы! В нем есть все необходимое чтобы жить в мире со своей семьей: рядом лес и река, на территории комплекса плавательный бассейн (открытый и закрытый), детские игровые площадки, тренажерный зал, йога и пилатес, сауна и многое другое."
+  },
+  {
+    "id": "184",
+    "sku": "asdf184",
+    "name": "Дуплекс",
+    "price": 1140000,
+    "location": "Стамбул, район Эйюпсултан",
+    "rooms": "3+1",
+    "square": "319",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Дуплексы"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "3+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816856/Apartments_new_2023/apartment_48_NEFES_GOKTURK/16_olcnis.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697817997/Apartments_new_2023/apartment_48_NEFES_GOKTURK/14_mdd9iq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816859/Apartments_new_2023/apartment_48_NEFES_GOKTURK/11_rhmfuk.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/17_ydovrw.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816855/Apartments_new_2023/apartment_48_NEFES_GOKTURK/13_vp0mwo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816854/Apartments_new_2023/apartment_48_NEFES_GOKTURK/15_xya4vi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816861/Apartments_new_2023/apartment_48_NEFES_GOKTURK/23_t1lzxn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816858/Apartments_new_2023/apartment_48_NEFES_GOKTURK/19_wpyglh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816862/Apartments_new_2023/apartment_48_NEFES_GOKTURK/36_ydby4a.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816865/Apartments_new_2023/apartment_48_NEFES_GOKTURK/46_k063s8.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/58_rqhycd.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/35_q2dfcs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816866/Apartments_new_2023/apartment_48_NEFES_GOKTURK/69_nt8cyo.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816868/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Bathroom_otm0ha.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816869/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Kitchen_chuxti.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816870/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Laundry_ohdzyh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697816871/Apartments_new_2023/apartment_48_NEFES_GOKTURK/Locaton_ajs2pa.webp"
+    ],
+    "shortDescription": "Квартира-дуплекс 3+1, площадь: 319 м², Стамбул, европейская часть, район Эйюпсултан (Eyüpsultan), также в наличии дуплексы: 4+1, 328 м², цена 1 млн. 400 тыс.$ и 5+1, 450 м², цена 1 млн. 580 тыс.$ ",  
+    "fullDescription": "Уникальный и современный жилой комплекс Nefes Koru Göktürk занимает достойное место среди красот Стамбула и его притягательной атмосферы! В нем есть все необходимое чтобы жить в мире со своей семьей: рядом лес и река, на территории комплекса плавательный бассейн (открытый и закрытый), детские игровые площадки, тренажерный зал, йога и пилатес, сауна и многое другое."
+  },
+  {
+    "id": "185",
+    "sku": "asdf185",
+    "name": "Дуплекс",
+    "price": 726000,
+    "location": "Стамбул, район Пендик",
+    "rooms": "1+1",
+    "square": "115",
+    "discount": 2025,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Дуплексы"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/8_cgosh3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819042/Apartments_new_2023/apartment_49_RAMADA/2_gpusoh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819044/Apartments_new_2023/apartment_49_RAMADA/3_t4qmws.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819043/Apartments_new_2023/apartment_49_RAMADA/4_qpwjo1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819045/Apartments_new_2023/apartment_49_RAMADA/9_cpxhvf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819046/Apartments_new_2023/apartment_49_RAMADA/1_kwfsxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/5_r752nq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/8_cgosh3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819053/Apartments_new_2023/apartment_49_RAMADA/12_csgszr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819054/Apartments_new_2023/apartment_49_RAMADA/13_mtb1kn.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819055/Apartments_new_2023/apartment_49_RAMADA/14_1_fsqxa5.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819056/Apartments_new_2023/apartment_49_RAMADA/15_mkyti9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819057/Apartments_new_2023/apartment_49_RAMADA/16_ctpd4l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819059/Apartments_new_2023/apartment_49_RAMADA/18_zuwljy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819058/Apartments_new_2023/apartment_49_RAMADA/17_twotej.webp"
+    ],
+    "shortDescription": "Квартира-дуплекс 1+1, площадь: 115 м², Стамбул, европейская часть, район Пендик (Pendik), также в наличии квартира: 1+1, 63 м², цена 392 тыс.$",  
+    "fullDescription": "Уникальный комплекс Ramada Hotel & by Wyndham. Расположен рядом с международным  Sabiha Gokcen аэропортом. В комплекс входят 212 роскошных, 5-звездочных люксовых номеров, бизнес офисы и оздоровительный комплекс. Действует Центр пересадки волос, клиника пластической хирургии и стоматологическая клиника."
+  },
+  
+  
+
+
 
 
 
@@ -7269,8 +8295,8 @@
 
 
   {
-    "id": "195",
-    "sku": "asdf195",
+    "id": "201",
+    "sku": "asdf201",
     "name": "Вилла",
     "price": 1954600,
     "location": "Стамбул, район Башакшехир",
@@ -7322,8 +8348,8 @@
     "fullDescription": "Элитный поселок Mavera Villas состоит из 21 трехэтажных вилл, площадью от 469м2 до 836 м2, в которых есть все для прекрасной и счастливой семейной жизни."
   },
   {
-    "id": "196",
-    "sku": "asdf196",
+    "id": "202",
+    "sku": "asdf202",
     "name": "Вилла",
     "price": 439900,
     "location": "Стамбул, район Силиври",
@@ -7374,8 +8400,8 @@
     "fullDescription": "Элитный поселок ALC Villages, расположенный в Силиври-Селимпаша, известен как летняя курортная зона Стамбула, состоит из 18 отдельно стоящих вилл. Есть общий бассейн  и закрытый бассейн для женщин. Кроме того, есть футбольное поле, баскетбольная и волейбольная площадки, детская площадка, место для пикника."
   },
   {
-    "id": "197",
-    "sku": "asdf197",
+    "id": "203",
+    "sku": "asdf203",
     "name": "Вилла",
     "price": 769600,
     "location": "Стамбул, район Силиври",
@@ -7424,7 +8450,202 @@
     ],
     "shortDescription": "Вилла 4+1, площадь: 279 м², Стамбул, европейская часть, район Силиври (Silivri)",  
     "fullDescription": "Элитный поселок ALC Villages, расположенный в Силиври-Селимпаша, известен как летняя курортная зона Стамбула, состоит из 18 отдельно стоящих вилл. Есть общий бассейн  и закрытый бассейн для женщин. Кроме того, есть футбольное поле, баскетбольная и волейбольная площадки, детская площадка, место для пикника."
+  },
+  {
+    "id": "204",
+    "sku": "asdf204",
+    "name": "Вилла",
+    "price": 1161000,
+    "location": "Стамбул, район Бююкчекмедже",
+    "rooms": "5+2",
+    "square": "370",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Виллы"],
+    "tag": ["Cите,", "Элитная недвижимость,", "Все включено,", "С видом на море"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "5+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823677/Apartments_new_2023/VILLA_5_BLUE_SEA/3031_lpgr8x.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823674/Apartments_new_2023/VILLA_5_BLUE_SEA/18_wajhai.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823675/Apartments_new_2023/VILLA_5_BLUE_SEA/1114Foto_aydqwm.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823691/Apartments_new_2023/VILLA_5_BLUE_SEA/yatakodas1_3_got8zx.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823686/Apartments_new_2023/VILLA_5_BLUE_SEA/havuzkatsalon30000_kvsj41.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823681/Apartments_new_2023/VILLA_5_BLUE_SEA/catsalon1_rwgpz0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823682/Apartments_new_2023/VILLA_5_BLUE_SEA/Ebeveynbanyo_pxd3ow.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823687/Apartments_new_2023/VILLA_5_BLUE_SEA/Kordor3_l8kfvf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823695/Apartments_new_2023/VILLA_5_BLUE_SEA/yatakodas_advywz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823694/Apartments_new_2023/VILLA_5_BLUE_SEA/Ms2_iqghod.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823690/Apartments_new_2023/VILLA_5_BLUE_SEA/katgencoda_c6dqoq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823683/Apartments_new_2023/VILLA_5_BLUE_SEA/gencodas2_emheu0.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823680/Apartments_new_2023/VILLA_5_BLUE_SEA/BodrumKat_epvmgq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823685/Apartments_new_2023/VILLA_5_BLUE_SEA/GWC_u0bo3f.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823693/Apartments_new_2023/VILLA_5_BLUE_SEA/zemnkatMutfak1_hu7gdr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823672/Apartments_new_2023/VILLA_5_BLUE_SEA/2.Bodrumsporsalonu_pllaxb.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823670/Apartments_new_2023/VILLA_5_BLUE_SEA/2.Bodrumat_obgiye.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823668/Apartments_new_2023/VILLA_5_BLUE_SEA/2.Bodrum_kat_Sauna_sbt8qv.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823668/Apartments_new_2023/VILLA_5_BLUE_SEA/2.Bodrum_v5vf3c.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823671/Apartments_new_2023/VILLA_5_BLUE_SEA/04_jubemj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697823689/Apartments_new_2023/VILLA_5_BLUE_SEA/map_aepowr.webp"
+    ],
+    "shortDescription": "Вилла 5+2, площадь: 370 м², Стамбул, европейская часть, район Бююкчекмедже (Büyükçekmece Mimarsinan)",  
+    "fullDescription": "Элитный комплекс BlueSEA Mimarsinan на побережье Мраморного моря, состоящий из 30 вилл, с полным видом на море. Каждая вилла имеет: бассейн, сауну, турецкую баню, джакузи, тренажерный зал, сад, гараж на 2 машины и 2 гостевые парковки, лифт с гаража на крышу. Высота потолков 3,5 м. Рядом торговый центр, 1 минута до пляжа. (*цены от 1161000$ до 1716000$, зависит от площади земельного участка виллы 234-371м2)."
+  },
+
+
+
+  {
+    "id": "301",
+    "sku": "asdf301",
+    "name": "Офис",
+    "price": 203500,
+    "location": "Стамбул, район Кягытхане",
+    "rooms": "1+1",
+    "square": "50",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Офисы"],
+    "tag": ["Бизнес,", "Коммерческая недвижимость,"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794461/Apartments_new_2023/apartment_47_DAP_VADISI/122_nr7v7t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794450/Apartments_new_2023/apartment_47_DAP_VADISI/11_dl0qlz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794455/Apartments_new_2023/apartment_47_DAP_VADISI/14_b73xcj.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794460/Apartments_new_2023/apartment_47_DAP_VADISI/123_mds3jc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794462/Apartments_new_2023/apartment_47_DAP_VADISI/177_dijeyr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794452/Apartments_new_2023/apartment_47_DAP_VADISI/2_rmw82g.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794451/Apartments_new_2023/apartment_47_DAP_VADISI/1_ubpw1m.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794454/Apartments_new_2023/apartment_47_DAP_VADISI/111_coubtf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794464/Apartments_new_2023/apartment_47_DAP_VADISI/2213_byqef7.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794466/Apartments_new_2023/apartment_47_DAP_VADISI/2214_cw1c2h.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794460/Apartments_new_2023/apartment_47_DAP_VADISI/112_keckth.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794459/Apartments_new_2023/apartment_47_DAP_VADISI/72_ulxd0t.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794457/Apartments_new_2023/apartment_47_DAP_VADISI/52_qx1ydc.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794458/Apartments_new_2023/apartment_47_DAP_VADISI/60_f2pkme.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794457/Apartments_new_2023/apartment_47_DAP_VADISI/89_h2psvf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794455/Apartments_new_2023/apartment_47_DAP_VADISI/17_o4wo1d.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697794465/Apartments_new_2023/apartment_47_DAP_VADISI/map_sg1d4p.webp"
+    ],
+    "shortDescription": "Офис 1+1, площадь: 50 м², Стамбул, европейская часть, район Кягытхане (Kâğithane), также в наличии офисы 1+1: площадью 67 м², за 470 тыс.$ и 148 м², за 605 тыс.$ ",  
+    "fullDescription": "Уникальный деловой комплекс, созданный для бизнеса и комфортного отдыха, в котором есть все, начиная от ландшафта до фитнес-центра, от мини от поля для гольфа до вертолетной площадки, от кафе и ресторанов до торговых центров и конференц-залов. Находится в 5-10 минутах от таких престижных центров, как Меджидиекёй, Шишли, Бешикташ, Таксим, Зинджирликую, Левент и Маслак."
+  },
+  {
+    "id": "302",
+    "sku": "asdf302",
+    "name": "Офис",
+    "price": 145000,
+    "location": "Стамбул, район Пендик",
+    "rooms": "1+1",
+    "square": "30",
+    "discount": 2025,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Офисы"],
+    "tag": ["Бизнес,", "Коммерческая недвижимость,"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "1+1",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/8_cgosh3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819042/Apartments_new_2023/apartment_49_RAMADA/2_gpusoh.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819044/Apartments_new_2023/apartment_49_RAMADA/3_t4qmws.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819043/Apartments_new_2023/apartment_49_RAMADA/4_qpwjo1.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819045/Apartments_new_2023/apartment_49_RAMADA/9_cpxhvf.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819046/Apartments_new_2023/apartment_49_RAMADA/1_kwfsxi.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/5_r752nq.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819049/Apartments_new_2023/apartment_49_RAMADA/8_cgosh3.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819053/Apartments_new_2023/apartment_49_RAMADA/12_csgszr.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819056/Apartments_new_2023/apartment_49_RAMADA/15_mkyti9.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819057/Apartments_new_2023/apartment_49_RAMADA/16_ctpd4l.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819059/Apartments_new_2023/apartment_49_RAMADA/18_zuwljy.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697819058/Apartments_new_2023/apartment_49_RAMADA/17_twotej.webp"
+    ],
+    "shortDescription": "Офис 1+1, площадь: 30 м², Стамбул, европейская часть, район Пендик (Pendik), также в наличии квартира: 1+1, 63 м², цена 392 тыс.$ и дуплекс 1+1, 115 м², цена 726 тыс.$",  
+    "fullDescription": "Уникальный комплекс Ramada Hotel & by Wyndham. Расположен рядом с международным  Sabiha Gokcen аэропортом. В комплекс входят 212 роскошных, 5-звездочных люксовых номеров, бизнес офисы и оздоровительный комплекс. Действует Центр пересадки волос, клиника пластической хирургии и стоматологическая клиника."
+  },
+
+
+  {
+    "id": "401",
+    "sku": "asdf401",
+    "name": "Земля",
+    "price": 345000,
+    "location": "Стамбул, район Бююкчекмедже",
+    "rooms": "0",
+    "square": "600",
+    "discount": 0,
+    "offerEnd": "October 12, 2023 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["Земля"],
+    "tag": ["Бизнес,", "Коммерческая недвижимость,"],
+    "citizenship": "Доступно гражданство Турции",
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://res.cloudinary.com/khamzat/image/upload/v1696518071/Apartments_new_2023/apartment_4_ALYA/111_z4kpe0.webp ",
+        "size": [
+          {
+            "name": "другие",
+            "stock": 5
+          }
+        ]
+      } 
+    ],
+    "image": [
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822740/Apartments_new_2023/earth-1/1_ett3cs.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822743/Apartments_new_2023/earth-1/2_vlaupu.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822741/Apartments_new_2023/earth-1/3_soupyz.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822742/Apartments_new_2023/earth-1/5_z5bjot.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822746/Apartments_new_2023/earth-1/4_yo3lht.webp",
+      "https://res.cloudinary.com/khamzat/image/upload/v1697822745/Apartments_new_2023/earth-1/6_m3kalz.webp"
+    ],
+    "shortDescription": "Земельный участок под жилую или коммерческую застройку, площадью 600 м², Стамбул, европейская часть, район Бююкчекмедже Мимар Синан (Büyükçekmece Mimarsinan)",  
+    "fullDescription": "Земельный участок с красивым панорамным видом. Район Büyükçekmece Mimarsinan активно развивается и спрос на землю и недвижимость растет в геометрической прогрессии. Чистый, тихий и престижный район, неторопливый темп жизни, прекрасная набережная с яхтами, потрясающие панорамные виды на Стамбул и Мраморное море – все это делает покупку земельного участка в данном районе невероятно выгодной инвестицией. Застройка возможна до 4-х этажей. Проведено электричество и вода. Рядом шоссе. До аэропорта Istanbul 40 минут."
   }
+  
   
 
 
